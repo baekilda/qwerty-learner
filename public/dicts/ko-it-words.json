@@ -1,0 +1,10205 @@
+[
+  {
+    "name": "file",
+    "trans": [
+      "파일"
+    ]
+  },
+  {
+    "name": "command",
+    "trans": [
+      "명령"
+    ]
+  },
+  {
+    "name": "use",
+    "trans": [
+      "사용"
+    ]
+  },
+  {
+    "name": "program",
+    "trans": [
+      "프로그램"
+    ]
+  },
+  {
+    "name": "line",
+    "trans": [
+      "선"
+    ]
+  },
+  {
+    "name": "if",
+    "trans": [
+      "만약"
+    ]
+  },
+  {
+    "name": "display",
+    "trans": [
+      "디스플레이"
+    ]
+  },
+  {
+    "name": "set",
+    "trans": [
+      "설정"
+    ]
+  },
+  {
+    "name": "key",
+    "trans": [
+      "키"
+    ]
+  },
+  {
+    "name": "list",
+    "trans": [
+      "목록"
+    ]
+  },
+  {
+    "name": "by",
+    "trans": [
+      "에 의해"
+    ]
+  },
+  {
+    "name": "press",
+    "trans": [
+      "압력"
+    ]
+  },
+  {
+    "name": "with",
+    "trans": [
+      "함께"
+    ]
+  },
+  {
+    "name": "format",
+    "trans": [
+      "형식"
+    ]
+  },
+  {
+    "name": "change",
+    "trans": [
+      "변경"
+    ]
+  },
+  {
+    "name": "cursor",
+    "trans": [
+      "커서"
+    ]
+  },
+  {
+    "name": "directory",
+    "trans": [
+      "디렉토리"
+    ]
+  },
+  {
+    "name": "from",
+    "trans": [
+      "에서"
+    ]
+  },
+  {
+    "name": "menu",
+    "trans": [
+      "메뉴"
+    ]
+  },
+  {
+    "name": "option",
+    "trans": [
+      "옵션"
+    ]
+  },
+  {
+    "name": "character",
+    "trans": [
+      "문자"
+    ]
+  },
+  {
+    "name": "current",
+    "trans": [
+      "현재"
+    ]
+  },
+  {
+    "name": "type",
+    "trans": [
+      "유형"
+    ]
+  },
+  {
+    "name": "screen",
+    "trans": [
+      "화면"
+    ]
+  },
+  {
+    "name": "specify",
+    "trans": [
+      "지정"
+    ]
+  },
+  {
+    "name": "move",
+    "trans": [
+      "이동"
+    ]
+  },
+  {
+    "name": "disk",
+    "trans": [
+      "디스크"
+    ]
+  },
+  {
+    "name": "text",
+    "trans": [
+      "텍스트"
+    ]
+  },
+  {
+    "name": "drive",
+    "trans": [
+      "드라이브"
+    ]
+  },
+  {
+    "name": "see",
+    "trans": [
+      "보다"
+    ]
+  },
+  {
+    "name": "name",
+    "trans": [
+      "이름"
+    ]
+  },
+  {
+    "name": "record",
+    "trans": [
+      "기록"
+    ]
+  },
+  {
+    "name": "box",
+    "trans": [
+      "상자"
+    ]
+  },
+  {
+    "name": "database",
+    "trans": [
+      "데이터베이스"
+    ]
+  },
+  {
+    "name": "help",
+    "trans": [
+      "도움"
+    ]
+  },
+  {
+    "name": "memory",
+    "trans": [
+      "기억"
+    ]
+  },
+  {
+    "name": "all",
+    "trans": [
+      "모두"
+    ]
+  },
+  {
+    "name": "on",
+    "trans": [
+      "켜짐"
+    ]
+  },
+  {
+    "name": "copy",
+    "trans": [
+      "복사"
+    ]
+  },
+  {
+    "name": "shell",
+    "trans": [
+      "쉘"
+    ]
+  },
+  {
+    "name": "delete",
+    "trans": [
+      "삭제"
+    ]
+  },
+  {
+    "name": "enter",
+    "trans": [
+      "입장"
+    ]
+  },
+  {
+    "name": "margin",
+    "trans": [
+      "여백"
+    ]
+  },
+  {
+    "name": "mark",
+    "trans": [
+      "표시"
+    ]
+  },
+  {
+    "name": "also",
+    "trans": [
+      "또한"
+    ]
+  },
+  {
+    "name": "do",
+    "trans": [
+      "하다"
+    ]
+  },
+  {
+    "name": "information",
+    "trans": [
+      "정보"
+    ]
+  },
+  {
+    "name": "choose",
+    "trans": [
+      "선택하다"
+    ]
+  },
+  {
+    "name": "select",
+    "trans": [
+      "선택"
+    ]
+  },
+  {
+    "name": "group",
+    "trans": [
+      "그룹"
+    ]
+  },
+  {
+    "name": "first",
+    "trans": [
+      "첫번째"
+    ]
+  },
+  {
+    "name": "field",
+    "trans": [
+      "분야"
+    ]
+  },
+  {
+    "name": "procedure",
+    "trans": [
+      "절차"
+    ]
+  },
+  {
+    "name": "print",
+    "trans": [
+      "인쇄"
+    ]
+  },
+  {
+    "name": "return",
+    "trans": [
+      "반환"
+    ]
+  },
+  {
+    "name": "number",
+    "trans": [
+      "번호"
+    ]
+  },
+  {
+    "name": "selected",
+    "trans": [
+      "선택된"
+    ]
+  },
+  {
+    "name": "want",
+    "trans": [
+      "원하다"
+    ]
+  },
+  {
+    "name": "window",
+    "trans": [
+      "창"
+    ]
+  },
+  {
+    "name": "message",
+    "trans": [
+      "메시지"
+    ]
+  },
+  {
+    "name": "dialog",
+    "trans": [
+      "대화"
+    ]
+  },
+  {
+    "name": "example",
+    "trans": [
+      "예"
+    ]
+  },
+  {
+    "name": "create",
+    "trans": [
+      "생성하다"
+    ]
+  },
+  {
+    "name": "insert",
+    "trans": [
+      "삽입하다"
+    ]
+  },
+  {
+    "name": "related",
+    "trans": [
+      "관련된"
+    ]
+  },
+  {
+    "name": "item",
+    "trans": [
+      "항목"
+    ]
+  },
+  {
+    "name": "edit",
+    "trans": [
+      "편집하다"
+    ]
+  },
+  {
+    "name": "marked",
+    "trans": [
+      "표시된"
+    ]
+  },
+  {
+    "name": "area",
+    "trans": [
+      "영역"
+    ]
+  },
+  {
+    "name": "parameter",
+    "trans": [
+      "매개변수"
+    ]
+  },
+  {
+    "name": "then",
+    "trans": [
+      "그때"
+    ]
+  },
+  {
+    "name": "variable",
+    "trans": [
+      "변수"
+    ]
+  },
+  {
+    "name": "tab",
+    "trans": [
+      "탭"
+    ]
+  },
+  {
+    "name": "up",
+    "trans": [
+      "위로"
+    ]
+  },
+  {
+    "name": "string",
+    "trans": [
+      "문자열"
+    ]
+  },
+  {
+    "name": "each",
+    "trans": [
+      "각각"
+    ]
+  },
+  {
+    "name": "active",
+    "trans": [
+      "활성"
+    ]
+  },
+  {
+    "name": "topic",
+    "trans": [
+      "주제"
+    ]
+  },
+  {
+    "name": "start",
+    "trans": [
+      "시작하다"
+    ]
+  },
+  {
+    "name": "mode",
+    "trans": [
+      "모드"
+    ]
+  },
+  {
+    "name": "selection",
+    "trans": [
+      "선택"
+    ]
+  },
+  {
+    "name": "function",
+    "trans": [
+      "기능"
+    ]
+  },
+  {
+    "name": "word",
+    "trans": [
+      "단어"
+    ]
+  },
+  {
+    "name": "make",
+    "trans": [
+      "만들다"
+    ]
+  },
+  {
+    "name": "right",
+    "trans": [
+      "올바른"
+    ]
+  },
+  {
+    "name": "value",
+    "trans": [
+      "가치"
+    ]
+  },
+  {
+    "name": "button",
+    "trans": [
+      "버튼"
+    ]
+  },
+  {
+    "name": "index",
+    "trans": [
+      "색인"
+    ]
+  },
+  {
+    "name": "without",
+    "trans": [
+      "없이"
+    ]
+  },
+  {
+    "name": "appear",
+    "trans": [
+      "나타나다"
+    ]
+  },
+  {
+    "name": "left",
+    "trans": [
+      "왼쪽"
+    ]
+  },
+  {
+    "name": "save",
+    "trans": [
+      "저장"
+    ]
+  },
+  {
+    "name": "next",
+    "trans": [
+      "다음"
+    ]
+  },
+  {
+    "name": "off",
+    "trans": [
+      "떨어져"
+    ]
+  },
+  {
+    "name": "following",
+    "trans": [
+      "다음의"
+    ]
+  },
+  {
+    "name": "control",
+    "trans": [
+      "제어"
+    ]
+  },
+  {
+    "name": "only",
+    "trans": [
+      "유일한"
+    ]
+  },
+  {
+    "name": "user",
+    "trans": [
+      "사용자"
+    ]
+  },
+  {
+    "name": "end",
+    "trans": [
+      "끝"
+    ]
+  },
+  {
+    "name": "system",
+    "trans": [
+      "시스템"
+    ]
+  },
+  {
+    "name": "contain",
+    "trans": [
+      "포함하다"
+    ]
+  },
+  {
+    "name": "time",
+    "trans": [
+      "시간"
+    ]
+  },
+  {
+    "name": "letter",
+    "trans": [
+      "편지"
+    ]
+  },
+  {
+    "name": "data",
+    "trans": [
+      "데이터"
+    ]
+  },
+  {
+    "name": "setting",
+    "trans": [
+      "설정"
+    ]
+  },
+  {
+    "name": "desire",
+    "trans": [
+      "욕망"
+    ]
+  },
+  {
+    "name": "position",
+    "trans": [
+      "위치"
+    ]
+  },
+  {
+    "name": "down",
+    "trans": [
+      "아래로"
+    ]
+  },
+  {
+    "name": "task",
+    "trans": [
+      "작업"
+    ]
+  },
+  {
+    "name": "view",
+    "trans": [
+      "보기"
+    ]
+  },
+  {
+    "name": "switch",
+    "trans": [
+      "스위치"
+    ]
+  },
+  {
+    "name": "include",
+    "trans": [
+      "포함하다"
+    ]
+  },
+  {
+    "name": "get",
+    "trans": [
+      "얻다"
+    ]
+  },
+  {
+    "name": "default",
+    "trans": [
+      "기본값"
+    ]
+  },
+  {
+    "name": "structure",
+    "trans": [
+      "구조"
+    ]
+  },
+  {
+    "name": "into",
+    "trans": [
+      "안으로"
+    ]
+  },
+  {
+    "name": "path",
+    "trans": [
+      "경로"
+    ]
+  },
+  {
+    "name": "blank",
+    "trans": [
+      "빈"
+    ]
+  },
+  {
+    "name": "open",
+    "trans": [
+      "열다"
+    ]
+  },
+  {
+    "name": "add",
+    "trans": [
+      "추가하다"
+    ]
+  },
+  {
+    "name": "enable",
+    "trans": [
+      "가능하게 하다"
+    ]
+  },
+  {
+    "name": "operation",
+    "trans": [
+      "작업"
+    ]
+  },
+  {
+    "name": "erase",
+    "trans": [
+      "지우다"
+    ]
+  },
+  {
+    "name": "filename",
+    "trans": [
+      "파일명"
+    ]
+  },
+  {
+    "name": "search",
+    "trans": [
+      "검색"
+    ]
+  },
+  {
+    "name": "another",
+    "trans": [
+      "다른"
+    ]
+  },
+  {
+    "name": "last",
+    "trans": [
+      "마지막"
+    ]
+  },
+  {
+    "name": "column",
+    "trans": [
+      "열"
+    ]
+  },
+  {
+    "name": "after",
+    "trans": [
+      "후에"
+    ]
+  },
+  {
+    "name": "prompt",
+    "trans": [
+      "즉각적인"
+    ]
+  },
+  {
+    "name": "two",
+    "trans": [
+      "둘"
+    ]
+  },
+  {
+    "name": "execute",
+    "trans": [
+      "실행하다"
+    ]
+  },
+  {
+    "name": "about",
+    "trans": [
+      "약"
+    ]
+  },
+  {
+    "name": "escape",
+    "trans": [
+      "탈출"
+    ]
+  },
+  {
+    "name": "error",
+    "trans": [
+      "오류"
+    ]
+  },
+  {
+    "name": "currently",
+    "trans": [
+      "현재"
+    ]
+  },
+  {
+    "name": "extension",
+    "trans": [
+      "확장"
+    ]
+  },
+  {
+    "name": "same",
+    "trans": [
+      "같은"
+    ]
+  },
+  {
+    "name": "status",
+    "trans": [
+      "상태"
+    ]
+  },
+  {
+    "name": "run",
+    "trans": [
+      "실행하다"
+    ]
+  },
+  {
+    "name": "argument",
+    "trans": [
+      "주장"
+    ]
+  },
+  {
+    "name": "statement",
+    "trans": [
+      "진술"
+    ]
+  },
+  {
+    "name": "shift",
+    "trans": [
+      "변경"
+    ]
+  },
+  {
+    "name": "store",
+    "trans": [
+      "저장하다"
+    ]
+  },
+  {
+    "name": "scroll",
+    "trans": [
+      "스크롤"
+    ]
+  },
+  {
+    "name": "replace",
+    "trans": [
+      "대체하다"
+    ]
+  },
+  {
+    "name": "macro",
+    "trans": [
+      "매크로"
+    ]
+  },
+  {
+    "name": "page",
+    "trans": [
+      "페이지"
+    ]
+  },
+  {
+    "name": "quit",
+    "trans": [
+      "그만두다"
+    ]
+  },
+  {
+    "name": "define",
+    "trans": [
+      "정의하다"
+    ]
+  },
+  {
+    "name": "reference",
+    "trans": [
+      "참조"
+    ]
+  },
+  {
+    "name": "other",
+    "trans": [
+      "다른"
+    ]
+  },
+  {
+    "name": "while",
+    "trans": [
+      "동안"
+    ]
+  },
+  {
+    "name": "pressing",
+    "trans": [
+      "긴급한"
+    ]
+  },
+  {
+    "name": "restore",
+    "trans": [
+      "복원하다"
+    ]
+  },
+  {
+    "name": "top",
+    "trans": [
+      "정점"
+    ]
+  },
+  {
+    "name": "how",
+    "trans": [
+      "어떻게"
+    ]
+  },
+  {
+    "name": "color",
+    "trans": [
+      "색상"
+    ]
+  },
+  {
+    "name": "allow",
+    "trans": [
+      "허용하다"
+    ]
+  },
+  {
+    "name": "block",
+    "trans": [
+      "차단하다"
+    ]
+  },
+  {
+    "name": "decimal",
+    "trans": [
+      "소수의"
+    ]
+  },
+  {
+    "name": "main",
+    "trans": [
+      "주요한"
+    ]
+  },
+  {
+    "name": "definition",
+    "trans": [
+      "정의"
+    ]
+  },
+  {
+    "name": "between",
+    "trans": [
+      "사이"
+    ]
+  },
+  {
+    "name": "optional",
+    "trans": [
+      "선택적"
+    ]
+  },
+  {
+    "name": "date",
+    "trans": [
+      "날짜"
+    ]
+  },
+  {
+    "name": "remove",
+    "trans": [
+      "제거하다"
+    ]
+  },
+  {
+    "name": "arrow",
+    "trans": [
+      "화살"
+    ]
+  },
+  {
+    "name": "label",
+    "trans": [
+      "라벨"
+    ]
+  },
+  {
+    "name": "within",
+    "trans": [
+      "내부"
+    ]
+  },
+  {
+    "name": "issue",
+    "trans": [
+      "문제"
+    ]
+  },
+  {
+    "name": "different",
+    "trans": [
+      "다른"
+    ]
+  },
+  {
+    "name": "available",
+    "trans": [
+      "사용 가능한"
+    ]
+  },
+  {
+    "name": "returned",
+    "trans": [
+      "반환된"
+    ]
+  },
+  {
+    "name": "associate",
+    "trans": [
+      "연관짓다"
+    ]
+  },
+  {
+    "name": "attribute",
+    "trans": [
+      "속성"
+    ]
+  },
+  {
+    "name": "DOS",
+    "trans": [
+      "디스크 운영 체제"
+    ]
+  },
+  {
+    "name": "before",
+    "trans": [
+      "이전"
+    ]
+  },
+  {
+    "name": "order",
+    "trans": [
+      "명령"
+    ]
+  },
+  {
+    "name": "modify",
+    "trans": [
+      "수정하다"
+    ]
+  },
+  {
+    "name": "array",
+    "trans": [
+      "배열"
+    ]
+  },
+  {
+    "name": "mouse",
+    "trans": [
+      "마우스"
+    ]
+  },
+  {
+    "name": "note",
+    "trans": [
+      "노트"
+    ]
+  },
+  {
+    "name": "locate",
+    "trans": [
+      "위치"
+    ]
+  },
+  {
+    "name": "video",
+    "trans": [
+      "비디오"
+    ]
+  },
+  {
+    "name": "printer",
+    "trans": [
+      "프린터"
+    ]
+  },
+  {
+    "name": "bar",
+    "trans": [
+      "막대"
+    ]
+  },
+  {
+    "name": "bottom",
+    "trans": [
+      "바닥"
+    ]
+  },
+  {
+    "name": "carriage",
+    "trans": [
+      "차량"
+    ]
+  },
+  {
+    "name": "content",
+    "trans": [
+      "내용"
+    ]
+  },
+  {
+    "name": "either",
+    "trans": [
+      "어느"
+    ]
+  },
+  {
+    "name": "OK",
+    "trans": [
+      "좋음"
+    ]
+  },
+  {
+    "name": "space",
+    "trans": [
+      "공간"
+    ]
+  },
+  {
+    "name": "editor",
+    "trans": [
+      "편집자"
+    ]
+  },
+  {
+    "name": "exist",
+    "trans": [
+      "존재"
+    ]
+  },
+  {
+    "name": "scope",
+    "trans": [
+      "범위"
+    ]
+  },
+  {
+    "name": "paragraph",
+    "trans": [
+      "단락"
+    ]
+  },
+  {
+    "name": "multi",
+    "trans": [
+      "다수"
+    ]
+  },
+  {
+    "name": "clear",
+    "trans": [
+      "명확한"
+    ]
+  },
+  {
+    "name": "exit",
+    "trans": [
+      "출구"
+    ]
+  },
+  {
+    "name": "report",
+    "trans": [
+      "보고서"
+    ]
+  },
+  {
+    "name": "execution",
+    "trans": [
+      "실행"
+    ]
+  },
+  {
+    "name": "backup",
+    "trans": [
+      "백업"
+    ]
+  },
+  {
+    "name": "version",
+    "trans": [
+      "버전"
+    ]
+  },
+  {
+    "name": "find",
+    "trans": [
+      "발견"
+    ]
+  },
+  {
+    "name": "pointer",
+    "trans": [
+      "포인터"
+    ]
+  },
+  {
+    "name": "subset",
+    "trans": [
+      "부분집합"
+    ]
+  },
+  {
+    "name": "keyboard",
+    "trans": [
+      "키보드"
+    ]
+  },
+  {
+    "name": "full",
+    "trans": [
+      "전체"
+    ]
+  },
+  {
+    "name": "check",
+    "trans": [
+      "확인"
+    ]
+  },
+  {
+    "name": "should",
+    "trans": [
+      "해야 한다"
+    ]
+  },
+  {
+    "name": "single",
+    "trans": [
+      "단일한"
+    ]
+  },
+  {
+    "name": "provide",
+    "trans": [
+      "제공하다"
+    ]
+  },
+  {
+    "name": "title",
+    "trans": [
+      "제목"
+    ]
+  },
+  {
+    "name": "expression",
+    "trans": [
+      "표현"
+    ]
+  },
+  {
+    "name": "through",
+    "trans": [
+      "통과하여"
+    ]
+  },
+  {
+    "name": "toggle",
+    "trans": [
+      "전환"
+    ]
+  },
+  {
+    "name": "code",
+    "trans": [
+      "코드"
+    ]
+  },
+  {
+    "name": "such",
+    "trans": [
+      "그런"
+    ]
+  },
+  {
+    "name": "beginning",
+    "trans": [
+      "시작"
+    ]
+  },
+  {
+    "name": "guide",
+    "trans": [
+      "안내하다"
+    ]
+  },
+  {
+    "name": "tree",
+    "trans": [
+      "나무"
+    ]
+  },
+  {
+    "name": "environment",
+    "trans": [
+      "환경"
+    ]
+  },
+  {
+    "name": "but",
+    "trans": [
+      "하지만"
+    ]
+  },
+  {
+    "name": "device",
+    "trans": [
+      "장치"
+    ]
+  },
+  {
+    "name": "highlight",
+    "trans": [
+      "강조하다"
+    ]
+  },
+  {
+    "name": "call",
+    "trans": [
+      "부르다"
+    ]
+  },
+  {
+    "name": "continue",
+    "trans": [
+      "계속하다"
+    ]
+  },
+  {
+    "name": "indicate",
+    "trans": [
+      "나타내다"
+    ]
+  },
+  {
+    "name": "until",
+    "trans": [
+      "까지"
+    ]
+  },
+  {
+    "name": "begin",
+    "trans": [
+      "시작하다"
+    ]
+  },
+  {
+    "name": "place",
+    "trans": [
+      "장소"
+    ]
+  },
+  {
+    "name": "rename",
+    "trans": [
+      "이름 바꾸다"
+    ]
+  },
+  {
+    "name": "swap",
+    "trans": [
+      "교환하다"
+    ]
+  },
+  {
+    "name": "work",
+    "trans": [
+      "작업"
+    ]
+  },
+  {
+    "name": "remain",
+    "trans": [
+      "남다"
+    ]
+  },
+  {
+    "name": "close",
+    "trans": [
+      "닫다"
+    ]
+  },
+  {
+    "name": "combination",
+    "trans": [
+      "조합"
+    ]
+  },
+  {
+    "name": "profile",
+    "trans": [
+      "프로필"
+    ]
+  },
+  {
+    "name": "unless",
+    "trans": [
+      "하지 않는 한"
+    ]
+  },
+  {
+    "name": "except",
+    "trans": [
+      "제외하다"
+    ]
+  },
+  {
+    "name": "turn",
+    "trans": [
+      "돌리다"
+    ]
+  },
+  {
+    "name": "back",
+    "trans": [
+      "뒤"
+    ]
+  },
+  {
+    "name": "sure",
+    "trans": [
+      "확실한"
+    ]
+  },
+  {
+    "name": "section",
+    "trans": [
+      "부분"
+    ]
+  },
+  {
+    "name": "follow",
+    "trans": [
+      "따르다"
+    ]
+  },
+  {
+    "name": "split",
+    "trans": [
+      "분리하다"
+    ]
+  },
+  {
+    "name": "need",
+    "trans": [
+      "필요하다"
+    ]
+  },
+  {
+    "name": "access",
+    "trans": [
+      "접근"
+    ]
+  },
+  {
+    "name": "additional",
+    "trans": [
+      "추가적인"
+    ]
+  },
+  {
+    "name": "cancel",
+    "trans": [
+      "취소하다"
+    ]
+  },
+  {
+    "name": "document",
+    "trans": [
+      "문서"
+    ]
+  },
+  {
+    "name": "case",
+    "trans": [
+      "상황"
+    ]
+  },
+  {
+    "name": "numeric",
+    "trans": [
+      "숫자"
+    ]
+  },
+  {
+    "name": "go",
+    "trans": [
+      "가다"
+    ]
+  },
+  {
+    "name": "load",
+    "trans": [
+      "로드하다"
+    ]
+  },
+  {
+    "name": "try",
+    "trans": [
+      "시도하다"
+    ]
+  },
+  {
+    "name": "size",
+    "trans": [
+      "크기"
+    ]
+  },
+  {
+    "name": "entire",
+    "trans": [
+      "전체의"
+    ]
+  },
+  {
+    "name": "leave",
+    "trans": [
+      "떠나다"
+    ]
+  },
+  {
+    "name": "history",
+    "trans": [
+      "역사"
+    ]
+  },
+  {
+    "name": "second",
+    "trans": [
+      "두 번째"
+    ]
+  },
+  {
+    "name": "reflow",
+    "trans": [
+      "재흐름"
+    ]
+  },
+  {
+    "name": "output",
+    "trans": [
+      "출력"
+    ]
+  },
+  {
+    "name": "out",
+    "trans": [
+      "밖으로"
+    ]
+  },
+  {
+    "name": "both",
+    "trans": [
+      "둘 다"
+    ]
+  },
+  {
+    "name": "install",
+    "trans": [
+      "설치하다"
+    ]
+  },
+  {
+    "name": "source",
+    "trans": [
+      "출처"
+    ]
+  },
+  {
+    "name": "way",
+    "trans": [
+      "방법"
+    ]
+  },
+  {
+    "name": "assign",
+    "trans": [
+      "할당하다"
+    ]
+  },
+  {
+    "name": "support",
+    "trans": [
+      "지원"
+    ]
+  },
+  {
+    "name": "specific",
+    "trans": [
+      "특정"
+    ]
+  },
+  {
+    "name": "join",
+    "trans": [
+      "참여"
+    ]
+  },
+  {
+    "name": "expand",
+    "trans": [
+      "확장"
+    ]
+  },
+  {
+    "name": "like",
+    "trans": [
+      "유사한"
+    ]
+  },
+  {
+    "name": "Diskette",
+    "trans": [
+      "디스켓"
+    ]
+  },
+  {
+    "name": "skip",
+    "trans": [
+      "건너뛰다"
+    ]
+  },
+  {
+    "name": "application",
+    "trans": [
+      "응용"
+    ]
+  },
+  {
+    "name": "confirmation",
+    "trans": [
+      "확인"
+    ]
+  },
+  {
+    "name": "whether",
+    "trans": [
+      "여부"
+    ]
+  },
+  {
+    "name": "hold",
+    "trans": [
+      "유지하다"
+    ]
+  },
+  {
+    "name": "click",
+    "trans": [
+      "클릭"
+    ]
+  },
+  {
+    "name": "write",
+    "trans": [
+      "쓰기"
+    ]
+  },
+  {
+    "name": "byte",
+    "trans": [
+      "바이트"
+    ]
+  },
+  {
+    "name": "abbreviate",
+    "trans": [
+      "축약하다"
+    ]
+  },
+  {
+    "name": "show",
+    "trans": [
+      "보여주다"
+    ]
+  },
+  {
+    "name": "otherwise",
+    "trans": [
+      "그렇지 않으면"
+    ]
+  },
+  {
+    "name": "working",
+    "trans": [
+      "작동하는"
+    ]
+  },
+  {
+    "name": "delimiter",
+    "trans": [
+      "구분자"
+    ]
+  },
+  {
+    "name": "location",
+    "trans": [
+      "위치"
+    ]
+  },
+  {
+    "name": "perform",
+    "trans": [
+      "수행하다"
+    ]
+  },
+  {
+    "name": "graphic",
+    "trans": [
+      "그래픽"
+    ]
+  },
+  {
+    "name": "read",
+    "trans": [
+      "읽다"
+    ]
+  },
+  {
+    "name": "confirm",
+    "trans": [
+      "확인하다"
+    ]
+  },
+  {
+    "name": "sort",
+    "trans": [
+      "정렬하다"
+    ]
+  },
+  {
+    "name": "clause",
+    "trans": [
+      "조항"
+    ]
+  },
+  {
+    "name": "once",
+    "trans": [
+      "한 번"
+    ]
+  },
+  {
+    "name": "however",
+    "trans": [
+      "그러나"
+    ]
+  },
+  {
+    "name": "extend",
+    "trans": [
+      "확장하다"
+    ]
+  },
+  {
+    "name": "look",
+    "trans": [
+      "보다"
+    ]
+  },
+  {
+    "name": "now",
+    "trans": [
+      "지금"
+    ]
+  },
+  {
+    "name": "original",
+    "trans": [
+      "원래의"
+    ]
+  },
+  {
+    "name": "correspond",
+    "trans": [
+      "일치하다"
+    ]
+  },
+  {
+    "name": "property",
+    "trans": [
+      "재산"
+    ]
+  },
+  {
+    "name": "several",
+    "trans": [
+      "여러"
+    ]
+  },
+  {
+    "name": "learn",
+    "trans": [
+      "배우다"
+    ]
+  },
+  {
+    "name": "cause",
+    "trans": [
+      "원인"
+    ]
+  },
+  {
+    "name": "bracket",
+    "trans": [
+      "괄호"
+    ]
+  },
+  {
+    "name": "omit",
+    "trans": [
+      "생략하다"
+    ]
+  },
+  {
+    "name": "running",
+    "trans": [
+      "운영 중인"
+    ]
+  },
+  {
+    "name": "edge",
+    "trans": [
+      "가장자리"
+    ]
+  },
+  {
+    "name": "form",
+    "trans": [
+      "형태"
+    ]
+  },
+  {
+    "name": "instruction",
+    "trans": [
+      "지침"
+    ]
+  },
+  {
+    "name": "ASCII",
+    "trans": [
+      "ASCII 코드"
+    ]
+  },
+  {
+    "name": "below",
+    "trans": [
+      "아래"
+    ]
+  },
+  {
+    "name": "standard",
+    "trans": [
+      "표준"
+    ]
+  },
+  {
+    "name": "occurrence",
+    "trans": [
+      "발생"
+    ]
+  },
+  {
+    "name": "lock",
+    "trans": [
+      "잠금"
+    ]
+  },
+  {
+    "name": "append",
+    "trans": [
+      "추가하다"
+    ]
+  },
+  {
+    "name": "destination",
+    "trans": [
+      "목적지"
+    ]
+  },
+  {
+    "name": "password",
+    "trans": [
+      "비밀번호"
+    ]
+  },
+  {
+    "name": "point",
+    "trans": [
+      "점"
+    ]
+  },
+  {
+    "name": "variety",
+    "trans": [
+      "다양성"
+    ]
+  },
+  {
+    "name": "many",
+    "trans": [
+      "많은"
+    ]
+  },
+  {
+    "name": "buffer",
+    "trans": [
+      "버퍼"
+    ]
+  },
+  {
+    "name": "useful",
+    "trans": [
+      "유용한"
+    ]
+  },
+  {
+    "name": "object",
+    "trans": [
+      "목표"
+    ]
+  },
+  {
+    "name": "again",
+    "trans": [
+      "다시"
+    ]
+  },
+  {
+    "name": "carry",
+    "trans": [
+      "운반하다"
+    ]
+  },
+  {
+    "name": "update",
+    "trans": [
+      "업데이트"
+    ]
+  },
+  {
+    "name": "moving",
+    "trans": [
+      "이동"
+    ]
+  },
+  {
+    "name": "coprocessor",
+    "trans": [
+      "보조 프로세서"
+    ]
+  },
+  {
+    "name": "overlay",
+    "trans": [
+      "오버레이"
+    ]
+  },
+  {
+    "name": "practice",
+    "trans": [
+      "연습"
+    ]
+  },
+  {
+    "name": "navigation",
+    "trans": [
+      "항해"
+    ]
+  },
+  {
+    "name": "automatically",
+    "trans": [
+      "자동으로"
+    ]
+  },
+  {
+    "name": "total",
+    "trans": [
+      "총계"
+    ]
+  },
+  {
+    "name": "previous",
+    "trans": [
+      "이전의"
+    ]
+  },
+  {
+    "name": "software",
+    "trans": [
+      "소프트웨어"
+    ]
+  },
+  {
+    "name": "shortcut",
+    "trans": [
+      "지름길"
+    ]
+  },
+  {
+    "name": "long",
+    "trans": [
+      "긴"
+    ]
+  },
+  {
+    "name": "unique",
+    "trans": [
+      "독특한"
+    ]
+  },
+  {
+    "name": "part",
+    "trans": [
+      "부분"
+    ]
+  },
+  {
+    "name": "internal",
+    "trans": [
+      "내부의"
+    ]
+  },
+  {
+    "name": "fill",
+    "trans": [
+      "채우다"
+    ]
+  },
+  {
+    "name": "basic",
+    "trans": [
+      "기본적인"
+    ]
+  },
+  {
+    "name": "math",
+    "trans": [
+      "수학"
+    ]
+  },
+  {
+    "name": "since",
+    "trans": [
+      "이후"
+    ]
+  },
+  {
+    "name": "determine",
+    "trans": [
+      "결정하다"
+    ]
+  },
+  {
+    "name": "making",
+    "trans": [
+      "제작"
+    ]
+  },
+  {
+    "name": "center",
+    "trans": [
+      "중심"
+    ]
+  },
+  {
+    "name": "already",
+    "trans": [
+      "이미"
+    ]
+  },
+  {
+    "name": "keyword",
+    "trans": [
+      "키워드"
+    ]
+  },
+  {
+    "name": "action",
+    "trans": [
+      "행동"
+    ]
+  },
+  {
+    "name": "condition",
+    "trans": [
+      "조건"
+    ]
+  },
+  {
+    "name": "quick",
+    "trans": [
+      "빠른"
+    ]
+  },
+  {
+    "name": "give",
+    "trans": [
+      "주다"
+    ]
+  },
+  {
+    "name": "large",
+    "trans": [
+      "큰"
+    ]
+  },
+  {
+    "name": "chapter",
+    "trans": [
+      "장"
+    ]
+  },
+  {
+    "name": "computer",
+    "trans": [
+      "컴퓨터"
+    ]
+  },
+  {
+    "name": "complete",
+    "trans": [
+      "완전한"
+    ]
+  },
+  {
+    "name": "past",
+    "trans": [
+      "과거의"
+    ]
+  },
+  {
+    "name": "match",
+    "trans": [
+      "경기"
+    ]
+  },
+  {
+    "name": "recover",
+    "trans": [
+      "회복하다"
+    ]
+  },
+  {
+    "name": "always",
+    "trans": [
+      "항상"
+    ]
+  },
+  {
+    "name": "require",
+    "trans": [
+      "필요하다"
+    ]
+  },
+  {
+    "name": "opening",
+    "trans": [
+      "시작"
+    ]
+  },
+  {
+    "name": "network",
+    "trans": [
+      "네트워크"
+    ]
+  },
+  {
+    "name": "sign",
+    "trans": [
+      "표시"
+    ]
+  },
+  {
+    "name": "release",
+    "trans": [
+      "해방"
+    ]
+  },
+  {
+    "name": "three",
+    "trans": [
+      "셋"
+    ]
+  },
+  {
+    "name": "recall",
+    "trans": [
+      "회상하다"
+    ]
+  },
+  {
+    "name": "deletion",
+    "trans": [
+      "삭제"
+    ]
+  },
+  {
+    "name": "fixed",
+    "trans": [
+      "고정된"
+    ]
+  },
+  {
+    "name": "amount",
+    "trans": [
+      "양"
+    ]
+  },
+  {
+    "name": "alias",
+    "trans": [
+      "별명"
+    ]
+  },
+  {
+    "name": "quote",
+    "trans": [
+      "인용"
+    ]
+  },
+  {
+    "name": "correct",
+    "trans": [
+      "올바른"
+    ]
+  },
+  {
+    "name": "else",
+    "trans": [
+      "다른"
+    ]
+  },
+  {
+    "name": "maximum",
+    "trans": [
+      "최대"
+    ]
+  },
+  {
+    "name": "under",
+    "trans": [
+      "아래에"
+    ]
+  },
+  {
+    "name": "take",
+    "trans": [
+      "가져가다"
+    ]
+  },
+  {
+    "name": "element",
+    "trans": [
+      "요소"
+    ]
+  },
+  {
+    "name": "modification",
+    "trans": [
+      "수정"
+    ]
+  },
+  {
+    "name": "input",
+    "trans": [
+      "입력"
+    ]
+  },
+  {
+    "name": "uppercase",
+    "trans": [
+      "대문자"
+    ]
+  },
+  {
+    "name": "plus",
+    "trans": [
+      "더하기"
+    ]
+  },
+  {
+    "name": "found",
+    "trans": [
+      "설립하다"
+    ]
+  },
+  {
+    "name": "debug",
+    "trans": [
+      "디버그하다"
+    ]
+  },
+  {
+    "name": "force",
+    "trans": [
+      "힘"
+    ]
+  },
+  {
+    "name": "lowercase",
+    "trans": [
+      "소문자"
+    ]
+  },
+  {
+    "name": "just",
+    "trans": [
+      "정당한"
+    ]
+  },
+  {
+    "name": "undo",
+    "trans": [
+      "취소하다"
+    ]
+  },
+  {
+    "name": "environ",
+    "trans": [
+      "둘러싸다"
+    ]
+  },
+  {
+    "name": "why",
+    "trans": [
+      "왜"
+    ]
+  },
+  {
+    "name": "temporary",
+    "trans": [
+      "임시의"
+    ]
+  },
+  {
+    "name": "put",
+    "trans": [
+      "놓다"
+    ]
+  },
+  {
+    "name": "instead",
+    "trans": [
+      "대신"
+    ]
+  },
+  {
+    "name": "encounter",
+    "trans": [
+      "만나다"
+    ]
+  },
+  {
+    "name": "across",
+    "trans": [
+      "가로질러"
+    ]
+  },
+  {
+    "name": "matching",
+    "trans": [
+      "일치하는"
+    ]
+  },
+  {
+    "name": "wildcard",
+    "trans": [
+      "와일드카드"
+    ]
+  },
+  {
+    "name": "spill",
+    "trans": [
+      "흘리다"
+    ]
+  },
+  {
+    "name": "level",
+    "trans": [
+      "수준"
+    ]
+  },
+  {
+    "name": "browse",
+    "trans": [
+      "탐색하다"
+    ]
+  },
+  {
+    "name": "speech",
+    "trans": [
+      "연설"
+    ]
+  },
+  {
+    "name": "occur",
+    "trans": [
+      "발생하다"
+    ]
+  },
+  {
+    "name": "memo",
+    "trans": [
+      "메모"
+    ]
+  },
+  {
+    "name": "prior",
+    "trans": [
+      "우선의"
+    ]
+  },
+  {
+    "name": "loaded",
+    "trans": [
+      "장착된"
+    ]
+  },
+  {
+    "name": "length",
+    "trans": [
+      "길이"
+    ]
+  },
+  {
+    "name": "round",
+    "trans": [
+      "둥근"
+    ]
+  },
+  {
+    "name": "variant",
+    "trans": [
+      "변형"
+    ]
+  },
+  {
+    "name": "floppy",
+    "trans": [
+      "느슨한"
+    ]
+  },
+  {
+    "name": "machine",
+    "trans": [
+      "기계"
+    ]
+  },
+  {
+    "name": "square",
+    "trans": [
+      "정사각형"
+    ]
+  },
+  {
+    "name": "supply",
+    "trans": [
+      "공급"
+    ]
+  },
+  {
+    "name": "home",
+    "trans": [
+      "집"
+    ]
+  },
+  {
+    "name": "normal",
+    "trans": [
+      "정상적인"
+    ]
+  },
+  {
+    "name": "onto",
+    "trans": [
+      "위로"
+    ]
+  },
+  {
+    "name": "during",
+    "trans": [
+      "기간"
+    ]
+  },
+  {
+    "name": "module",
+    "trans": [
+      "모듈"
+    ]
+  },
+  {
+    "name": "monochrome",
+    "trans": [
+      "단색"
+    ]
+  },
+  {
+    "name": "assistance",
+    "trans": [
+      "도움"
+    ]
+  },
+  {
+    "name": "tell",
+    "trans": [
+      "말하다"
+    ]
+  },
+  {
+    "name": "library",
+    "trans": [
+      "도서관"
+    ]
+  },
+  {
+    "name": "demonstration",
+    "trans": [
+      "시연"
+    ]
+  },
+  {
+    "name": "stack",
+    "trans": [
+      "스택"
+    ]
+  },
+  {
+    "name": "even",
+    "trans": [
+      "평평한"
+    ]
+  },
+  {
+    "name": "evaluate",
+    "trans": [
+      "평가하다"
+    ]
+  },
+  {
+    "name": "times",
+    "trans": [
+      "시간"
+    ]
+  },
+  {
+    "name": "previously",
+    "trans": [
+      "이전"
+    ]
+  },
+  {
+    "name": "directly",
+    "trans": [
+      "직접"
+    ]
+  },
+  {
+    "name": "logical",
+    "trans": [
+      "논리적인"
+    ]
+  },
+  {
+    "name": "template",
+    "trans": [
+      "템플릿"
+    ]
+  },
+  {
+    "name": "calling",
+    "trans": [
+      "직업"
+    ]
+  },
+  {
+    "name": "later",
+    "trans": [
+      "나중에"
+    ]
+  },
+  {
+    "name": "driver",
+    "trans": [
+      "운전사"
+    ]
+  },
+  {
+    "name": "therefore",
+    "trans": [
+      "따라서"
+    ]
+  },
+  {
+    "name": "saving",
+    "trans": [
+      "절약"
+    ]
+  },
+  {
+    "name": "detail",
+    "trans": [
+      "세부"
+    ]
+  },
+  {
+    "name": "linker",
+    "trans": [
+      "링커"
+    ]
+  },
+  {
+    "name": "loop",
+    "trans": [
+      "루프"
+    ]
+  },
+  {
+    "name": "process",
+    "trans": [
+      "과정"
+    ]
+  },
+  {
+    "name": "scheme",
+    "trans": [
+      "계획"
+    ]
+  },
+  {
+    "name": "every",
+    "trans": [
+      "모든"
+    ]
+  },
+  {
+    "name": "refer",
+    "trans": [
+      "참조하다"
+    ]
+  },
+  {
+    "name": "possible",
+    "trans": [
+      "가능한"
+    ]
+  },
+  {
+    "name": "above",
+    "trans": [
+      "위의"
+    ]
+  },
+  {
+    "name": "overview",
+    "trans": [
+      "개요"
+    ]
+  },
+  {
+    "name": "result",
+    "trans": [
+      "결과"
+    ]
+  },
+  {
+    "name": "syntax",
+    "trans": [
+      "구문"
+    ]
+  },
+  {
+    "name": "abbreviation",
+    "trans": [
+      "약어"
+    ]
+  },
+  {
+    "name": "BIOS",
+    "trans": [
+      "기본 입력 출력 시스템"
+    ]
+  },
+  {
+    "name": "hidden",
+    "trans": [
+      "숨겨진"
+    ]
+  },
+  {
+    "name": "null",
+    "trans": [
+      "무효"
+    ]
+  },
+  {
+    "name": "send",
+    "trans": [
+      "보내다"
+    ]
+  },
+  {
+    "name": "private",
+    "trans": [
+      "사적인"
+    ]
+  },
+  {
+    "name": "hard",
+    "trans": [
+      "어려운"
+    ]
+  },
+  {
+    "name": "hardware",
+    "trans": [
+      "하드웨어"
+    ]
+  },
+  {
+    "name": "say",
+    "trans": [
+      "말하다"
+    ]
+  },
+  {
+    "name": "equal",
+    "trans": [
+      "동등한"
+    ]
+  },
+  {
+    "name": "pack",
+    "trans": [
+      "포장하다"
+    ]
+  },
+  {
+    "name": "minus",
+    "trans": [
+      "빼기"
+    ]
+  },
+  {
+    "name": "alternate",
+    "trans": [
+      "교대하는"
+    ]
+  },
+  {
+    "name": "collapse",
+    "trans": [
+      "붕괴"
+    ]
+  },
+  {
+    "name": "linux",
+    "trans": [
+      "리눅스"
+    ]
+  },
+  {
+    "name": "corner",
+    "trans": [
+      "모퉁이"
+    ]
+  },
+  {
+    "name": "present",
+    "trans": [
+      "선물"
+    ]
+  },
+  {
+    "name": "interpreter",
+    "trans": [
+      "통역사"
+    ]
+  },
+  {
+    "name": "advance",
+    "trans": [
+      "진전"
+    ]
+  },
+  {
+    "name": "forward",
+    "trans": [
+      "앞으로"
+    ]
+  },
+  {
+    "name": "fast",
+    "trans": [
+      "빠른"
+    ]
+  },
+  {
+    "name": "special",
+    "trans": [
+      "특별한"
+    ]
+  },
+  {
+    "name": "slash",
+    "trans": [
+      "대폭 줄이다"
+    ]
+  },
+  {
+    "name": "utility",
+    "trans": [
+      "유틸리티"
+    ]
+  },
+  {
+    "name": "regardless",
+    "trans": [
+      "상관없이"
+    ]
+  },
+  {
+    "name": "disable",
+    "trans": [
+      "무능력하게 하다"
+    ]
+  },
+  {
+    "name": "compatible",
+    "trans": [
+      "호환되는"
+    ]
+  },
+  {
+    "name": "depend",
+    "trans": [
+      "의존하다"
+    ]
+  },
+  {
+    "name": "empty",
+    "trans": [
+      "비어있는"
+    ]
+  },
+  {
+    "name": "alphabetical",
+    "trans": [
+      "알파벳 순서의"
+    ]
+  },
+  {
+    "name": "branch",
+    "trans": [
+      "가지"
+    ]
+  },
+  {
+    "name": "resume",
+    "trans": [
+      "재개하다"
+    ]
+  },
+  {
+    "name": "multiple",
+    "trans": [
+      "다양한"
+    ]
+  },
+  {
+    "name": "monitor",
+    "trans": [
+      "모니터"
+    ]
+  },
+  {
+    "name": "configuration",
+    "trans": [
+      "구성"
+    ]
+  },
+  {
+    "name": "replacement",
+    "trans": [
+      "대체"
+    ]
+  },
+  {
+    "name": "required",
+    "trans": [
+      "필수의"
+    ]
+  },
+  {
+    "name": "table",
+    "trans": [
+      "테이블"
+    ]
+  },
+  {
+    "name": "loss",
+    "trans": [
+      "손실"
+    ]
+  },
+  {
+    "name": "exact",
+    "trans": [
+      "정확한"
+    ]
+  },
+  {
+    "name": "aboveboard",
+    "trans": [
+      "정직한"
+    ]
+  },
+  {
+    "name": "activate",
+    "trans": [
+      "활성화하다"
+    ]
+  },
+  {
+    "name": "around",
+    "trans": [
+      "주변의"
+    ]
+  },
+  {
+    "name": "slow",
+    "trans": [
+      "느린"
+    ]
+  },
+  {
+    "name": "floating",
+    "trans": [
+      "부유하는"
+    ]
+  },
+  {
+    "name": "refresh",
+    "trans": [
+      "새롭게 하다"
+    ]
+  },
+  {
+    "name": "stop",
+    "trans": [
+      "정지"
+    ]
+  },
+  {
+    "name": "pass",
+    "trans": [
+      "통과하다"
+    ]
+  },
+  {
+    "name": "public",
+    "trans": [
+      "공공의"
+    ]
+  },
+  {
+    "name": "eject",
+    "trans": [
+      "내보내다"
+    ]
+  },
+  {
+    "name": "ignore",
+    "trans": [
+      "무시하다"
+    ]
+  },
+  {
+    "name": "share",
+    "trans": [
+      "공유하다"
+    ]
+  },
+  {
+    "name": "sequence",
+    "trans": [
+      "순서"
+    ]
+  },
+  {
+    "name": "consist",
+    "trans": [
+      "구성되다"
+    ]
+  },
+  {
+    "name": "step",
+    "trans": [
+      "단계"
+    ]
+  },
+  {
+    "name": "double",
+    "trans": [
+      "두 배의"
+    ]
+  },
+  {
+    "name": "come",
+    "trans": [
+      "오다"
+    ]
+  },
+  {
+    "name": "lower",
+    "trans": [
+      "낮은"
+    ]
+  },
+  {
+    "name": "describe",
+    "trans": [
+      "설명하다"
+    ]
+  },
+  {
+    "name": "count",
+    "trans": [
+      "계산하다"
+    ]
+  },
+  {
+    "name": "pop",
+    "trans": [
+      "팝"
+    ]
+  },
+  {
+    "name": "valid",
+    "trans": [
+      "유효한"
+    ]
+  },
+  {
+    "name": "suspend",
+    "trans": [
+      "중단하다"
+    ]
+  },
+  {
+    "name": "enhance",
+    "trans": [
+      "향상하다"
+    ]
+  },
+  {
+    "name": "separate",
+    "trans": [
+      "분리하다"
+    ]
+  },
+  {
+    "name": "echo",
+    "trans": [
+      "메아리"
+    ]
+  },
+  {
+    "name": "necessary",
+    "trans": [
+      "필수의"
+    ]
+  },
+  {
+    "name": "able",
+    "trans": [
+      "능력 있는"
+    ]
+  },
+  {
+    "name": "marking",
+    "trans": [
+      "표시"
+    ]
+  },
+  {
+    "name": "ask",
+    "trans": [
+      "묻다"
+    ]
+  },
+  {
+    "name": "term",
+    "trans": [
+      "용어"
+    ]
+  },
+  {
+    "name": "bring",
+    "trans": [
+      "가져오다"
+    ]
+  },
+  {
+    "name": "warning",
+    "trans": [
+      "경고"
+    ]
+  },
+  {
+    "name": "less",
+    "trans": [
+      "덜한"
+    ]
+  },
+  {
+    "name": "comment",
+    "trans": [
+      "댓글"
+    ]
+  },
+  {
+    "name": "effect",
+    "trans": [
+      "효과"
+    ]
+  },
+  {
+    "name": "expanding",
+    "trans": [
+      "확장하는"
+    ]
+  },
+  {
+    "name": "on-line",
+    "trans": [
+      "온라인의"
+    ]
+  },
+  {
+    "name": "reorder",
+    "trans": [
+      "재주문"
+    ]
+  },
+  {
+    "name": "direct",
+    "trans": [
+      "직접적인"
+    ]
+  },
+  {
+    "name": "enclose",
+    "trans": [
+      "둘러싸다"
+    ]
+  },
+  {
+    "name": "reset",
+    "trans": [
+      "재설정"
+    ]
+  },
+  {
+    "name": "various",
+    "trans": [
+      "다양한"
+    ]
+  },
+  {
+    "name": "paper",
+    "trans": [
+      "종이"
+    ]
+  },
+  {
+    "name": "prevent",
+    "trans": [
+      "예방하다"
+    ]
+  },
+  {
+    "name": "side",
+    "trans": [
+      "측면"
+    ]
+  },
+  {
+    "name": "push",
+    "trans": [
+      "밀다"
+    ]
+  },
+  {
+    "name": "programming",
+    "trans": [
+      "프로그래밍"
+    ]
+  },
+  {
+    "name": "upper",
+    "trans": [
+      "상부의"
+    ]
+  },
+  {
+    "name": "row",
+    "trans": [
+      "열"
+    ]
+  },
+  {
+    "name": "pressed",
+    "trans": [
+      "압축된"
+    ]
+  },
+  {
+    "name": "temporarily",
+    "trans": [
+      "일시적으로"
+    ]
+  },
+  {
+    "name": "day",
+    "trans": [
+      "날"
+    ]
+  },
+  {
+    "name": "repaint",
+    "trans": [
+      "다시 칠하다"
+    ]
+  },
+  {
+    "name": "redefine",
+    "trans": [
+      "재정의하다"
+    ]
+  },
+  {
+    "name": "relation",
+    "trans": [
+      "관계"
+    ]
+  },
+  {
+    "name": "dimension",
+    "trans": [
+      "차원"
+    ]
+  },
+  {
+    "name": "boundary",
+    "trans": [
+      "경계"
+    ]
+  },
+  {
+    "name": "zoom",
+    "trans": [
+      "줌"
+    ]
+  },
+  {
+    "name": "initialize",
+    "trans": [
+      "초기화하다"
+    ]
+  },
+  {
+    "name": "personal",
+    "trans": [
+      "개인적인"
+    ]
+  },
+  {
+    "name": "true",
+    "trans": [
+      "진실한"
+    ]
+  },
+  {
+    "name": "wish",
+    "trans": [
+      "소원"
+    ]
+  },
+  {
+    "name": "font",
+    "trans": [
+      "글꼴"
+    ]
+  },
+  {
+    "name": "know",
+    "trans": [
+      "알다"
+    ]
+  },
+  {
+    "name": "convert",
+    "trans": [
+      "변환하다"
+    ]
+  },
+  {
+    "name": "global",
+    "trans": [
+      "전세계의"
+    ]
+  },
+  {
+    "name": "installation",
+    "trans": [
+      "설치"
+    ]
+  },
+  {
+    "name": "invoke",
+    "trans": [
+      "호출하다"
+    ]
+  },
+  {
+    "name": "interactive",
+    "trans": [
+      "상호작용하는"
+    ]
+  },
+  {
+    "name": "century",
+    "trans": [
+      "세기"
+    ]
+  },
+  {
+    "name": "literal",
+    "trans": [
+      "문자 그대로의"
+    ]
+  },
+  {
+    "name": "rather",
+    "trans": [
+      "오히려"
+    ]
+  },
+  {
+    "name": "exclusive",
+    "trans": [
+      "독점적인"
+    ]
+  },
+  {
+    "name": "marker",
+    "trans": [
+      "표시기"
+    ]
+  },
+  {
+    "name": "wait",
+    "trans": [
+      "기다리다"
+    ]
+  },
+  {
+    "name": "appropriate",
+    "trans": [
+      "적절한"
+    ]
+  },
+  {
+    "name": "fit",
+    "trans": [
+      "적합한"
+    ]
+  },
+  {
+    "name": "adapter",
+    "trans": [
+      "어댑터"
+    ]
+  },
+  {
+    "name": "filter",
+    "trans": [
+      "필터"
+    ]
+  },
+  {
+    "name": "break",
+    "trans": [
+      "휴식"
+    ]
+  },
+  {
+    "name": "backward",
+    "trans": [
+      "뒤로"
+    ]
+  },
+  {
+    "name": "searching",
+    "trans": [
+      "탐색하는"
+    ]
+  },
+  {
+    "name": "receive",
+    "trans": [
+      "받다"
+    ]
+  },
+  {
+    "name": "dual",
+    "trans": [
+      "이중의"
+    ]
+  },
+  {
+    "name": "retry",
+    "trans": [
+      "재시도"
+    ]
+  },
+  {
+    "name": "normally",
+    "trans": [
+      "정상적으로"
+    ]
+  },
+  {
+    "name": "exactly",
+    "trans": [
+      "정확히"
+    ]
+  },
+  {
+    "name": "immediately",
+    "trans": [
+      "즉시"
+    ]
+  },
+  {
+    "name": "separated",
+    "trans": [
+      "분리된"
+    ]
+  },
+  {
+    "name": "high",
+    "trans": [
+      "높은"
+    ]
+  },
+  {
+    "name": "equivalent",
+    "trans": [
+      "동등한"
+    ]
+  },
+  {
+    "name": "light",
+    "trans": [
+      "빛"
+    ]
+  },
+  {
+    "name": "zero",
+    "trans": [
+      "제로"
+    ]
+  },
+  {
+    "name": "storage",
+    "trans": [
+      "저장"
+    ]
+  },
+  {
+    "name": "width",
+    "trans": [
+      "너비"
+    ]
+  },
+  {
+    "name": "language",
+    "trans": [
+      "언어"
+    ]
+  },
+  {
+    "name": "startup",
+    "trans": [
+      "시작"
+    ]
+  },
+  {
+    "name": "much",
+    "trans": [
+      "많은"
+    ]
+  },
+  {
+    "name": "per",
+    "trans": [
+      "당"
+    ]
+  },
+  {
+    "name": "over",
+    "trans": [
+      "넘어"
+    ]
+  },
+  {
+    "name": "mirror",
+    "trans": [
+      "거울"
+    ]
+  },
+  {
+    "name": "request",
+    "trans": [
+      "요청"
+    ]
+  },
+  {
+    "name": "keypad",
+    "trans": [
+      "키패드"
+    ]
+  },
+  {
+    "name": "keep",
+    "trans": [
+      "유지하다"
+    ]
+  },
+  {
+    "name": "resident",
+    "trans": [
+      "거주하는"
+    ]
+  },
+  {
+    "name": "learning",
+    "trans": [
+      "학습"
+    ]
+  },
+  {
+    "name": "talk",
+    "trans": [
+      "대화"
+    ]
+  },
+  {
+    "name": "summary",
+    "trans": [
+      "요약"
+    ]
+  },
+  {
+    "name": "well",
+    "trans": [
+      "우물",
+      "건강한"
+    ]
+  },
+  {
+    "name": "link",
+    "trans": [
+      "연결"
+    ]
+  },
+  {
+    "name": "identify",
+    "trans": [
+      "식별하다"
+    ]
+  },
+  {
+    "name": "pertain",
+    "trans": [
+      "관련되다"
+    ]
+  },
+  {
+    "name": "expansion",
+    "trans": [
+      "확장"
+    ]
+  },
+  {
+    "name": "incompatible",
+    "trans": [
+      "호환되지 않는"
+    ]
+  },
+  {
+    "name": "blinking",
+    "trans": [
+      "깜박이는"
+    ]
+  },
+  {
+    "name": "month",
+    "trans": [
+      "월"
+    ]
+  },
+  {
+    "name": "precede",
+    "trans": [
+      "앞서다"
+    ]
+  },
+  {
+    "name": "readily",
+    "trans": [
+      "쉽게"
+    ]
+  },
+  {
+    "name": "transportable",
+    "trans": [
+      "휴대 가능한"
+    ]
+  },
+  {
+    "name": "routine",
+    "trans": [
+      "일상"
+    ]
+  },
+  {
+    "name": "ready",
+    "trans": [
+      "준비된"
+    ]
+  },
+  {
+    "name": "listing",
+    "trans": [
+      "목록"
+    ]
+  },
+  {
+    "name": "newly",
+    "trans": [
+      "새롭게"
+    ]
+  },
+  {
+    "name": "year",
+    "trans": [
+      "년"
+    ]
+  },
+  {
+    "name": "contact",
+    "trans": [
+      "연락하다"
+    ]
+  },
+  {
+    "name": "session",
+    "trans": [
+      "세션"
+    ]
+  },
+  {
+    "name": "own",
+    "trans": [
+      "자신의"
+    ]
+  },
+  {
+    "name": "redraw",
+    "trans": [
+      "재구성하다"
+    ]
+  },
+  {
+    "name": "here",
+    "trans": [
+      "여기"
+    ]
+  },
+  {
+    "name": "manual",
+    "trans": [
+      "수동의"
+    ]
+  },
+  {
+    "name": "particular",
+    "trans": [
+      "특별한"
+    ]
+  },
+  {
+    "name": "rectangle",
+    "trans": [
+      "직사각형"
+    ]
+  },
+  {
+    "name": "additive",
+    "trans": [
+      "첨가물"
+    ]
+  },
+  {
+    "name": "similar",
+    "trans": [
+      "유사한"
+    ]
+  },
+  {
+    "name": "assembly",
+    "trans": [
+      "조립"
+    ]
+  },
+  {
+    "name": "copyright",
+    "trans": [
+      "저작권"
+    ]
+  },
+  {
+    "name": "description",
+    "trans": [
+      "설명"
+    ]
+  },
+  {
+    "name": "retrieve",
+    "trans": [
+      "회수하다"
+    ]
+  },
+  {
+    "name": "mistake",
+    "trans": [
+      "실수"
+    ]
+  },
+  {
+    "name": "produce",
+    "trans": [
+      "생산하다"
+    ]
+  },
+  {
+    "name": "ram",
+    "trans": [
+      "램"
+    ]
+  },
+  {
+    "name": "exception",
+    "trans": [
+      "예외"
+    ]
+  },
+  {
+    "name": "digit",
+    "trans": [
+      "숫자"
+    ]
+  },
+  {
+    "name": "reverse",
+    "trans": [
+      "반대"
+    ]
+  },
+  {
+    "name": "minimum",
+    "trans": [
+      "최소"
+    ]
+  },
+  {
+    "name": "enough",
+    "trans": [
+      "충분한"
+    ]
+  },
+  {
+    "name": "although",
+    "trans": [
+      "비록"
+    ]
+  },
+  {
+    "name": "third",
+    "trans": [
+      "셋째"
+    ]
+  },
+  {
+    "name": "red",
+    "trans": [
+      "빨간"
+    ]
+  },
+  {
+    "name": "along",
+    "trans": [
+      "따라"
+    ]
+  },
+  {
+    "name": "test",
+    "trans": [
+      "테스트"
+    ]
+  },
+  {
+    "name": "small",
+    "trans": [
+      "작은"
+    ]
+  },
+  {
+    "name": "feed",
+    "trans": [
+      "먹이다"
+    ]
+  },
+  {
+    "name": "company",
+    "trans": [
+      "회사"
+    ]
+  },
+  {
+    "name": "movie",
+    "trans": [
+      "영화"
+    ]
+  },
+  {
+    "name": "compile",
+    "trans": [
+      "컴파일하다"
+    ]
+  },
+  {
+    "name": "frequently",
+    "trans": [
+      "자주"
+    ]
+  },
+  {
+    "name": "undefined",
+    "trans": [
+      "정의되지 않은"
+    ]
+  },
+  {
+    "name": "state",
+    "trans": [
+      "상태"
+    ]
+  },
+  {
+    "name": "accept",
+    "trans": [
+      "수락하다"
+    ]
+  },
+  {
+    "name": "intense",
+    "trans": [
+      "강렬한"
+    ]
+  },
+  {
+    "name": "documentation",
+    "trans": [
+      "문서"
+    ]
+  },
+  {
+    "name": "asterisk",
+    "trans": [
+      "별표"
+    ]
+  },
+  {
+    "name": "easily",
+    "trans": [
+      "쉽게"
+    ]
+  },
+  {
+    "name": "become",
+    "trans": [
+      "되다"
+    ]
+  },
+  {
+    "name": "address",
+    "trans": [
+      "주소"
+    ]
+  },
+  {
+    "name": "interface",
+    "trans": [
+      "인터페이스"
+    ]
+  },
+  {
+    "name": "pause",
+    "trans": [
+      "일시정지"
+    ]
+  },
+  {
+    "name": "repeat",
+    "trans": [
+      "반복"
+    ]
+  },
+  {
+    "name": "restart",
+    "trans": [
+      "재시작"
+    ]
+  },
+  {
+    "name": "assumed",
+    "trans": [
+      "가정된"
+    ]
+  },
+  {
+    "name": "speed",
+    "trans": [
+      "속도"
+    ]
+  },
+  {
+    "name": "entry",
+    "trans": [
+      "입장"
+    ]
+  },
+  {
+    "name": "combine",
+    "trans": [
+      "결합"
+    ]
+  },
+  {
+    "name": "root",
+    "trans": [
+      "뿌리"
+    ]
+  },
+  {
+    "name": "symbol",
+    "trans": [
+      "기호"
+    ]
+  },
+  {
+    "name": "binary",
+    "trans": [
+      "이진"
+    ]
+  },
+  {
+    "name": "whenever",
+    "trans": [
+      "언제든지"
+    ]
+  },
+  {
+    "name": "reach",
+    "trans": [
+      "도달하다"
+    ]
+  },
+  {
+    "name": "caution",
+    "trans": [
+      "경고"
+    ]
+  },
+  {
+    "name": "subtotal",
+    "trans": [
+      "소계"
+    ]
+  },
+  {
+    "name": "card",
+    "trans": [
+      "카드"
+    ]
+  },
+  {
+    "name": "general",
+    "trans": [
+      "일반적인"
+    ]
+  },
+  {
+    "name": "associated",
+    "trans": [
+      "연관된"
+    ]
+  },
+  {
+    "name": "transfer",
+    "trans": [
+      "전송"
+    ]
+  },
+  {
+    "name": "connect",
+    "trans": [
+      "연결하다"
+    ]
+  },
+  {
+    "name": "partition",
+    "trans": [
+      "분할"
+    ]
+  },
+  {
+    "name": "hexadecimal",
+    "trans": [
+      "16진수"
+    ]
+  },
+  {
+    "name": "generate",
+    "trans": [
+      "생성하다"
+    ]
+  },
+  {
+    "name": "specification",
+    "trans": [
+      "사양"
+    ]
+  },
+  {
+    "name": "customize",
+    "trans": [
+      "사용자화"
+    ]
+  },
+  {
+    "name": "far",
+    "trans": [
+      "먼"
+    ]
+  },
+  {
+    "name": "nest",
+    "trans": [
+      "둥지"
+    ]
+  },
+  {
+    "name": "duplicate",
+    "trans": [
+      "복사"
+    ]
+  },
+  {
+    "name": "compression",
+    "trans": [
+      "압축"
+    ]
+  },
+  {
+    "name": "unable",
+    "trans": [
+      "할 수 없는"
+    ]
+  },
+  {
+    "name": "means",
+    "trans": [
+      "수단"
+    ]
+  },
+  {
+    "name": "intensity",
+    "trans": [
+      "강도"
+    ]
+  },
+  {
+    "name": "reading",
+    "trans": [
+      "읽기"
+    ]
+  },
+  {
+    "name": "let",
+    "trans": [
+      "허락하다"
+    ]
+  },
+  {
+    "name": "compare",
+    "trans": [
+      "비교하다"
+    ]
+  },
+  {
+    "name": "sector",
+    "trans": [
+      "부문"
+    ]
+  },
+  {
+    "name": "problem",
+    "trans": [
+      "문제"
+    ]
+  },
+  {
+    "name": "backspace",
+    "trans": [
+      "백스페이스"
+    ]
+  },
+  {
+    "name": "terminate",
+    "trans": [
+      "종료하다"
+    ]
+  },
+  {
+    "name": "people",
+    "trans": [
+      "사람들"
+    ]
+  },
+  {
+    "name": "short",
+    "trans": [
+      "짧은"
+    ]
+  },
+  {
+    "name": "drag",
+    "trans": [
+      "끌다"
+    ]
+  },
+  {
+    "name": "preview",
+    "trans": [
+      "미리보기"
+    ]
+  },
+  {
+    "name": "underscore",
+    "trans": [
+      "강조하다"
+    ]
+  },
+  {
+    "name": "correctly",
+    "trans": [
+      "정확히"
+    ]
+  },
+  {
+    "name": "initially",
+    "trans": [
+      "처음에"
+    ]
+  },
+  {
+    "name": "reformat",
+    "trans": [
+      "재형식화"
+    ]
+  },
+  {
+    "name": "inside",
+    "trans": [
+      "안쪽"
+    ]
+  },
+  {
+    "name": "integrate",
+    "trans": [
+      "통합하다"
+    ]
+  },
+  {
+    "name": "controlled",
+    "trans": [
+      "제어된"
+    ]
+  },
+  {
+    "name": "period",
+    "trans": [
+      "기간"
+    ]
+  },
+  {
+    "name": "huge",
+    "trans": [
+      "거대한"
+    ]
+  },
+  {
+    "name": "determined",
+    "trans": [
+      "결단력 있는"
+    ]
+  },
+  {
+    "name": "trailing",
+    "trans": [
+      "뒤따르는"
+    ]
+  },
+  {
+    "name": "seek",
+    "trans": [
+      "찾다"
+    ]
+  },
+  {
+    "name": "introduction",
+    "trans": [
+      "소개"
+    ]
+  },
+  {
+    "name": "indent",
+    "trans": [
+      "들여쓰기"
+    ]
+  },
+  {
+    "name": "base",
+    "trans": [
+      "기초"
+    ]
+  },
+  {
+    "name": "integer",
+    "trans": [
+      "정수"
+    ]
+  },
+  {
+    "name": "attempt",
+    "trans": [
+      "시도"
+    ]
+  },
+  {
+    "name": "twice",
+    "trans": [
+      "두 번"
+    ]
+  },
+  {
+    "name": "formed",
+    "trans": [
+      "형성된"
+    ]
+  },
+  {
+    "name": "subscript",
+    "trans": [
+      "아래 첨자"
+    ]
+  },
+  {
+    "name": "tiny",
+    "trans": [
+      "아주 작은"
+    ]
+  },
+  {
+    "name": "model",
+    "trans": [
+      "모델"
+    ]
+  },
+  {
+    "name": "correction",
+    "trans": [
+      "수정"
+    ]
+  },
+  {
+    "name": "rating",
+    "trans": [
+      "등급"
+    ]
+  },
+  {
+    "name": "secondary",
+    "trans": [
+      "중간의"
+    ]
+  },
+  {
+    "name": "limit",
+    "trans": [
+      "제한"
+    ]
+  },
+  {
+    "name": "sun",
+    "trans": [
+      "태양"
+    ]
+  },
+  {
+    "name": "translate",
+    "trans": [
+      "번역하다"
+    ]
+  },
+  {
+    "name": "reason",
+    "trans": [
+      "이유"
+    ]
+  },
+  {
+    "name": "colon",
+    "trans": [
+      "콜론"
+    ]
+  },
+  {
+    "name": "avoid",
+    "trans": [
+      "피하다"
+    ]
+  },
+  {
+    "name": "range",
+    "trans": [
+      "범위"
+    ]
+  },
+  {
+    "name": "allocate",
+    "trans": [
+      "할당하다"
+    ]
+  },
+  {
+    "name": "simply",
+    "trans": [
+      "단순히"
+    ]
+  },
+  {
+    "name": "verify",
+    "trans": [
+      "확인하다"
+    ]
+  },
+  {
+    "name": "manner",
+    "trans": [
+      "방식"
+    ]
+  },
+  {
+    "name": "direction",
+    "trans": [
+      "방향"
+    ]
+  },
+  {
+    "name": "portion",
+    "trans": [
+      "부분"
+    ]
+  },
+  {
+    "name": "emulator",
+    "trans": [
+      "에뮬레이터"
+    ]
+  },
+  {
+    "name": "successful",
+    "trans": [
+      "성공적인"
+    ]
+  },
+  {
+    "name": "applied",
+    "trans": [
+      "응용된"
+    ]
+  },
+  {
+    "name": "sum",
+    "trans": [
+      "합계"
+    ]
+  },
+  {
+    "name": "achieve",
+    "trans": [
+      "달성하다"
+    ]
+  },
+  {
+    "name": "together",
+    "trans": [
+      "함께"
+    ]
+  },
+  {
+    "name": "affect",
+    "trans": [
+      "영향을 미치다"
+    ]
+  },
+  {
+    "name": "delay",
+    "trans": [
+      "지연"
+    ]
+  },
+  {
+    "name": "free",
+    "trans": [
+      "자유로운"
+    ]
+  },
+  {
+    "name": "properly",
+    "trans": [
+      "적절하게"
+    ]
+  },
+  {
+    "name": "kind",
+    "trans": [
+      "친절한"
+    ]
+  },
+  {
+    "name": "splitting",
+    "trans": [
+      "폭발적인"
+    ]
+  },
+  {
+    "name": "feature",
+    "trans": [
+      "특징"
+    ]
+  },
+  {
+    "name": "console",
+    "trans": [
+      "위로하다"
+    ]
+  },
+  {
+    "name": "operate",
+    "trans": [
+      "작동하다"
+    ]
+  },
+  {
+    "name": "kernel",
+    "trans": [
+      "핵심"
+    ]
+  },
+  {
+    "name": "easy",
+    "trans": [
+      "쉬운"
+    ]
+  },
+  {
+    "name": "modifier",
+    "trans": [
+      "수정자"
+    ]
+  },
+  {
+    "name": "invalid",
+    "trans": [
+      "무효의"
+    ]
+  },
+  {
+    "name": "compiler",
+    "trans": [
+      "컴파일러"
+    ]
+  },
+  {
+    "name": "dot",
+    "trans": [
+      "점"
+    ]
+  },
+  {
+    "name": "beep",
+    "trans": [
+      "삐 소리"
+    ]
+  },
+  {
+    "name": "face",
+    "trans": [
+      "얼굴"
+    ]
+  },
+  {
+    "name": "random",
+    "trans": [
+      "무작위의"
+    ]
+  },
+  {
+    "name": "facility",
+    "trans": [
+      "시설"
+    ]
+  },
+  {
+    "name": "heading",
+    "trans": [
+      "제목"
+    ]
+  },
+  {
+    "name": "asynchronous",
+    "trans": [
+      "비동기"
+    ]
+  },
+  {
+    "name": "series",
+    "trans": [
+      "시리즈"
+    ]
+  },
+  {
+    "name": "individual",
+    "trans": [
+      "개별의"
+    ]
+  },
+  {
+    "name": "explain",
+    "trans": [
+      "설명하다"
+    ]
+  },
+  {
+    "name": "paste",
+    "trans": [
+      "붙여넣기"
+    ]
+  },
+  {
+    "name": "welcome",
+    "trans": [
+      "환영하다"
+    ]
+  },
+  {
+    "name": "six",
+    "trans": [
+      "여섯"
+    ]
+  },
+  {
+    "name": "early",
+    "trans": [
+      "이른"
+    ]
+  },
+  {
+    "name": "wrap",
+    "trans": [
+      "포장하다"
+    ]
+  },
+  {
+    "name": "blue",
+    "trans": [
+      "파란"
+    ]
+  },
+  {
+    "name": "queue",
+    "trans": [
+      "대기열"
+    ]
+  },
+  {
+    "name": "interrupt",
+    "trans": [
+      "중단하다"
+    ]
+  },
+  {
+    "name": "respect",
+    "trans": [
+      "존경"
+    ]
+  },
+  {
+    "name": "common",
+    "trans": [
+      "공통의"
+    ]
+  },
+  {
+    "name": "hyphen",
+    "trans": [
+      "하이픈"
+    ]
+  },
+  {
+    "name": "serial",
+    "trans": [
+      "연속"
+    ]
+  },
+  {
+    "name": "loading",
+    "trans": [
+      "로딩"
+    ]
+  },
+  {
+    "name": "retain",
+    "trans": [
+      "유지하다"
+    ]
+  },
+  {
+    "name": "setup",
+    "trans": [
+      "설정"
+    ]
+  },
+  {
+    "name": "freeze",
+    "trans": [
+      "동결"
+    ]
+  },
+  {
+    "name": "intend",
+    "trans": [
+      "의도하다"
+    ]
+  },
+  {
+    "name": "explanation",
+    "trans": [
+      "설명"
+    ]
+  },
+  {
+    "name": "certain",
+    "trans": [
+      "확실한"
+    ]
+  },
+  {
+    "name": "zap",
+    "trans": [
+      "제거하다"
+    ]
+  },
+  {
+    "name": "archive",
+    "trans": [
+      "아카이브"
+    ]
+  },
+  {
+    "name": "negative",
+    "trans": [
+      "부정적인"
+    ]
+  },
+  {
+    "name": "image",
+    "trans": [
+      "이미지"
+    ]
+  },
+  {
+    "name": "platform",
+    "trans": [
+      "플랫폼"
+    ]
+  },
+  {
+    "name": "often",
+    "trans": [
+      "자주"
+    ]
+  },
+  {
+    "name": "signal",
+    "trans": [
+      "신호"
+    ]
+  },
+  {
+    "name": "CPU",
+    "trans": [
+      "중앙처리장치"
+    ]
+  },
+  {
+    "name": "bit",
+    "trans": [
+      "비트"
+    ]
+  },
+  {
+    "name": "fully",
+    "trans": [
+      "완전히"
+    ]
+  },
+  {
+    "name": "deactivate",
+    "trans": [
+      "비활성화하다"
+    ]
+  },
+  {
+    "name": "especially",
+    "trans": [
+      "특히"
+    ]
+  },
+  {
+    "name": "usually",
+    "trans": [
+      "보통"
+    ]
+  },
+  {
+    "name": "recommend",
+    "trans": [
+      "추천하다"
+    ]
+  },
+  {
+    "name": "maintain",
+    "trans": [
+      "유지하다"
+    ]
+  },
+  {
+    "name": "important",
+    "trans": [
+      "중요한"
+    ]
+  },
+  {
+    "name": "central",
+    "trans": [
+      "중심의"
+    ]
+  },
+  {
+    "name": "addition",
+    "trans": [
+      "추가"
+    ]
+  },
+  {
+    "name": "anytime",
+    "trans": [
+      "언제든지"
+    ]
+  },
+  {
+    "name": "analyst",
+    "trans": [
+      "분석가"
+    ]
+  },
+  {
+    "name": "false",
+    "trans": [
+      "거짓의"
+    ]
+  },
+  {
+    "name": "black",
+    "trans": [
+      "검은"
+    ]
+  },
+  {
+    "name": "gather",
+    "trans": [
+      "모으다"
+    ]
+  },
+  {
+    "name": "cycle",
+    "trans": [
+      "주기"
+    ]
+  },
+  {
+    "name": "relative",
+    "trans": [
+      "상대적인"
+    ]
+  },
+  {
+    "name": "offer",
+    "trans": [
+      "제안"
+    ]
+  },
+  {
+    "name": "ending",
+    "trans": [
+      "끝"
+    ]
+  },
+  {
+    "name": "rent",
+    "trans": [
+      "임대료"
+    ]
+  },
+  {
+    "name": "sentence",
+    "trans": [
+      "문장"
+    ]
+  },
+  {
+    "name": "remember",
+    "trans": [
+      "기억하다"
+    ]
+  },
+  {
+    "name": "proper",
+    "trans": [
+      "적절한"
+    ]
+  },
+  {
+    "name": "design",
+    "trans": [
+      "디자인"
+    ]
+  },
+  {
+    "name": "examine",
+    "trans": [
+      "검사하다"
+    ]
+  },
+  {
+    "name": "initial",
+    "trans": [
+      "초기"
+    ]
+  },
+  {
+    "name": "corrupt",
+    "trans": [
+      "부패한"
+    ]
+  },
+  {
+    "name": "buy",
+    "trans": [
+      "구매하다"
+    ]
+  },
+  {
+    "name": "increase",
+    "trans": [
+      "증가하다"
+    ]
+  },
+  {
+    "name": "host",
+    "trans": [
+      "호스트"
+    ]
+  },
+  {
+    "name": "sample",
+    "trans": [
+      "샘플"
+    ]
+  },
+  {
+    "name": "pending",
+    "trans": [
+      "대기 중인"
+    ]
+  },
+  {
+    "name": "divide",
+    "trans": [
+      "나누다"
+    ]
+  },
+  {
+    "name": "boot",
+    "trans": [
+      "부츠"
+    ]
+  },
+  {
+    "name": "hide",
+    "trans": [
+      "숨기다"
+    ]
+  },
+  {
+    "name": "half",
+    "trans": [
+      "반"
+    ]
+  },
+  {
+    "name": "magenta",
+    "trans": [
+      "마젠타"
+    ]
+  },
+  {
+    "name": "leading",
+    "trans": [
+      "주요한"
+    ]
+  },
+  {
+    "name": "wrong",
+    "trans": [
+      "잘못된"
+    ]
+  },
+  {
+    "name": "today",
+    "trans": [
+      "오늘"
+    ]
+  },
+  {
+    "name": "least",
+    "trans": [
+      "최소한의"
+    ]
+  },
+  {
+    "name": "opposite",
+    "trans": [
+      "반대의"
+    ]
+  },
+  {
+    "name": "white",
+    "trans": [
+      "흰색의"
+    ]
+  },
+  {
+    "name": "override",
+    "trans": [
+      "무시하다"
+    ]
+  },
+  {
+    "name": "brown",
+    "trans": [
+      "갈색"
+    ]
+  },
+  {
+    "name": "hex",
+    "trans": [
+      "주문"
+    ]
+  },
+  {
+    "name": "rest",
+    "trans": [
+      "휴식"
+    ]
+  },
+  {
+    "name": "damage",
+    "trans": [
+      "손상"
+    ]
+  },
+  {
+    "name": "instant",
+    "trans": [
+      "즉시"
+    ]
+  },
+  {
+    "name": "reserved",
+    "trans": [
+      "예약된"
+    ]
+  },
+  {
+    "name": "technology",
+    "trans": [
+      "기술"
+    ]
+  },
+  {
+    "name": "handle",
+    "trans": [
+      "손잡이"
+    ]
+  },
+  {
+    "name": "apply",
+    "trans": [
+      "적용하다"
+    ]
+  },
+  {
+    "name": "stand",
+    "trans": [
+      "서다"
+    ]
+  },
+  {
+    "name": "payment",
+    "trans": [
+      "지불"
+    ]
+  },
+  {
+    "name": "kilobyte",
+    "trans": [
+      "킬로바이트"
+    ]
+  },
+  {
+    "name": "parenthesis",
+    "trans": [
+      "괄호"
+    ]
+  },
+  {
+    "name": "scan",
+    "trans": [
+      "스캔"
+    ]
+  },
+  {
+    "name": "developer",
+    "trans": [
+      "개발자"
+    ]
+  },
+  {
+    "name": "murder",
+    "trans": [
+      "살인"
+    ]
+  },
+  {
+    "name": "flush",
+    "trans": [
+      "홍조"
+    ]
+  },
+  {
+    "name": "unlock",
+    "trans": [
+      "열다"
+    ]
+  },
+  {
+    "name": "movement",
+    "trans": [
+      "움직임"
+    ]
+  },
+  {
+    "name": "consecutive",
+    "trans": [
+      "연속적인"
+    ]
+  },
+  {
+    "name": "collection",
+    "trans": [
+      "수집"
+    ]
+  },
+  {
+    "name": "front",
+    "trans": [
+      "앞면"
+    ]
+  },
+  {
+    "name": "prefix",
+    "trans": [
+      "접두사"
+    ]
+  },
+  {
+    "name": "carousel",
+    "trans": [
+      "회전목마"
+    ]
+  },
+  {
+    "name": "safety",
+    "trans": [
+      "안전"
+    ]
+  },
+  {
+    "name": "static",
+    "trans": [
+      "정적"
+    ]
+  },
+  {
+    "name": "fact",
+    "trans": [
+      "사실"
+    ]
+  },
+  {
+    "name": "alter",
+    "trans": [
+      "변경하다"
+    ]
+  },
+  {
+    "name": "track",
+    "trans": [
+      "추적하다"
+    ]
+  },
+  {
+    "name": "precedence",
+    "trans": [
+      "우선권"
+    ]
+  },
+  {
+    "name": "skeleton",
+    "trans": [
+      "골격"
+    ]
+  },
+  {
+    "name": "log",
+    "trans": [
+      "기록"
+    ]
+  },
+  {
+    "name": "star",
+    "trans": [
+      "별"
+    ]
+  },
+  {
+    "name": "hot",
+    "trans": [
+      "뜨거운"
+    ]
+  },
+  {
+    "name": "replaceable",
+    "trans": [
+      "교체 가능"
+    ]
+  },
+  {
+    "name": "accessible",
+    "trans": [
+      "접근 가능"
+    ]
+  },
+  {
+    "name": "involve",
+    "trans": [
+      "포함하다"
+    ]
+  },
+  {
+    "name": "configure",
+    "trans": [
+      "구성하다"
+    ]
+  },
+  {
+    "name": "question",
+    "trans": [
+      "질문"
+    ]
+  },
+  {
+    "name": "green",
+    "trans": [
+      "녹색"
+    ]
+  },
+  {
+    "name": "entirely",
+    "trans": [
+      "완전히"
+    ]
+  },
+  {
+    "name": "helpful",
+    "trans": [
+      "도움이 되는"
+    ]
+  },
+  {
+    "name": "middle",
+    "trans": [
+      "중간"
+    ]
+  },
+  {
+    "name": "declared",
+    "trans": [
+      "선언된"
+    ]
+  },
+  {
+    "name": "compress",
+    "trans": [
+      "압축하다"
+    ]
+  },
+  {
+    "name": "graphically",
+    "trans": [
+      "그래픽적으로"
+    ]
+  },
+  {
+    "name": "auto",
+    "trans": [
+      "자동"
+    ]
+  },
+  {
+    "name": "automatic",
+    "trans": [
+      "자동의"
+    ]
+  },
+  {
+    "name": "anywhere",
+    "trans": [
+      "어디서나"
+    ]
+  },
+  {
+    "name": "terminal",
+    "trans": [
+      "단말기"
+    ]
+  },
+  {
+    "name": "door",
+    "trans": [
+      "문"
+    ]
+  },
+  {
+    "name": "expire",
+    "trans": [
+      "만료되다"
+    ]
+  },
+  {
+    "name": "resolution",
+    "trans": [
+      "결의"
+    ]
+  },
+  {
+    "name": "local",
+    "trans": [
+      "지역의"
+    ]
+  },
+  {
+    "name": "semicolon",
+    "trans": [
+      "세미콜론"
+    ]
+  },
+  {
+    "name": "reread",
+    "trans": [
+      "재독"
+    ]
+  },
+  {
+    "name": "overwrite",
+    "trans": [
+      "덮어쓰기"
+    ]
+  },
+  {
+    "name": "critical",
+    "trans": [
+      "중대한"
+    ]
+  },
+  {
+    "name": "manager",
+    "trans": [
+      "관리자"
+    ]
+  },
+  {
+    "name": "capability",
+    "trans": [
+      "능력"
+    ]
+  },
+  {
+    "name": "affected",
+    "trans": [
+      "영향받은"
+    ]
+  },
+  {
+    "name": "border",
+    "trans": [
+      "경계"
+    ]
+  },
+  {
+    "name": "cache",
+    "trans": [
+      "캐시"
+    ]
+  },
+  {
+    "name": "bell",
+    "trans": [
+      "종"
+    ]
+  },
+  {
+    "name": "play",
+    "trans": [
+      "놀이"
+    ]
+  },
+  {
+    "name": "quickly",
+    "trans": [
+      "빠르게"
+    ]
+  },
+  {
+    "name": "fastback",
+    "trans": [
+      "빠른 반환"
+    ]
+  },
+  {
+    "name": "answer",
+    "trans": [
+      "답변"
+    ]
+  },
+  {
+    "name": "represent",
+    "trans": [
+      "대표하다"
+    ]
+  },
+  {
+    "name": "difference",
+    "trans": [
+      "차이"
+    ]
+  },
+  {
+    "name": "project",
+    "trans": [
+      "프로젝트"
+    ]
+  },
+  {
+    "name": "physical",
+    "trans": [
+      "신체의"
+    ]
+  },
+  {
+    "name": "matter",
+    "trans": [
+      "문제"
+    ]
+  },
+  {
+    "name": "hercules",
+    "trans": [
+      "헤라클레스"
+    ]
+  },
+  {
+    "name": "reduce",
+    "trans": [
+      "줄이다"
+    ]
+  },
+  {
+    "name": "publisher",
+    "trans": [
+      "출판사"
+    ]
+  },
+  {
+    "name": "trim",
+    "trans": [
+      "다듬다"
+    ]
+  },
+  {
+    "name": "substitute",
+    "trans": [
+      "대체"
+    ]
+  },
+  {
+    "name": "disabled",
+    "trans": [
+      "장애인"
+    ]
+  },
+  {
+    "name": "recent",
+    "trans": [
+      "최근의"
+    ]
+  },
+  {
+    "name": "positive",
+    "trans": [
+      "긍정적인"
+    ]
+  },
+  {
+    "name": "upgrade",
+    "trans": [
+      "업그레이드"
+    ]
+  },
+  {
+    "name": "instance",
+    "trans": [
+      "예시"
+    ]
+  },
+  {
+    "name": "happen",
+    "trans": [
+      "발생하다"
+    ]
+  },
+  {
+    "name": "future",
+    "trans": [
+      "미래"
+    ]
+  },
+  {
+    "name": "midnight",
+    "trans": [
+      "자정"
+    ]
+  },
+  {
+    "name": "though",
+    "trans": [
+      "하지만"
+    ]
+  },
+  {
+    "name": "nor",
+    "trans": [
+      "또한"
+    ]
+  },
+  {
+    "name": "mono",
+    "trans": [
+      "단일"
+    ]
+  },
+  {
+    "name": "slide",
+    "trans": [
+      "슬라이드"
+    ]
+  },
+  {
+    "name": "abort",
+    "trans": [
+      "유산"
+    ]
+  },
+  {
+    "name": "jump",
+    "trans": [
+      "점프"
+    ]
+  },
+  {
+    "name": "toward",
+    "trans": [
+      "향해"
+    ]
+  },
+  {
+    "name": "throughout",
+    "trans": [
+      "전역에"
+    ]
+  },
+  {
+    "name": "via",
+    "trans": [
+      "경유"
+    ]
+  },
+  {
+    "name": "among",
+    "trans": [
+      "사이"
+    ]
+  },
+  {
+    "name": "neither",
+    "trans": [
+      "둘 다 아님"
+    ]
+  },
+  {
+    "name": "layer",
+    "trans": [
+      "층"
+    ]
+  },
+  {
+    "name": "scatter",
+    "trans": [
+      "흩어지다"
+    ]
+  },
+  {
+    "name": "attention",
+    "trans": [
+      "주의"
+    ]
+  },
+  {
+    "name": "convention",
+    "trans": [
+      "회의"
+    ]
+  },
+  {
+    "name": "conventional",
+    "trans": [
+      "전통적인"
+    ]
+  },
+  {
+    "name": "tool",
+    "trans": [
+      "도구"
+    ]
+  },
+  {
+    "name": "processor",
+    "trans": [
+      "프로세서"
+    ]
+  },
+  {
+    "name": "desktop",
+    "trans": [
+      "데스크탑"
+    ]
+  },
+  {
+    "name": "build",
+    "trans": [
+      "구축"
+    ]
+  },
+  {
+    "name": "development",
+    "trans": [
+      "개발"
+    ]
+  },
+  {
+    "name": "exceed",
+    "trans": [
+      "초과하다"
+    ]
+  },
+  {
+    "name": "understand",
+    "trans": [
+      "이해하다"
+    ]
+  },
+  {
+    "name": "horizontal",
+    "trans": [
+      "수평의"
+    ]
+  },
+  {
+    "name": "meet",
+    "trans": [
+      "만나다"
+    ]
+  },
+  {
+    "name": "protect",
+    "trans": [
+      "보호하다"
+    ]
+  },
+  {
+    "name": "reserve",
+    "trans": [
+      "예약하다"
+    ]
+  },
+  {
+    "name": "clock",
+    "trans": [
+      "시계"
+    ]
+  },
+  {
+    "name": "manifest",
+    "trans": [
+      "명백한"
+    ]
+  },
+  {
+    "name": "safe",
+    "trans": [
+      "안전한"
+    ]
+  },
+  {
+    "name": "disconnect",
+    "trans": [
+      "분리하다"
+    ]
+  },
+  {
+    "name": "clockwise",
+    "trans": [
+      "시계 방향의"
+    ]
+  },
+  {
+    "name": "eliminate",
+    "trans": [
+      "제거하다"
+    ]
+  },
+  {
+    "name": "actual",
+    "trans": [
+      "실제의"
+    ]
+  },
+  {
+    "name": "declaration",
+    "trans": [
+      "선언"
+    ]
+  },
+  {
+    "name": "probably",
+    "trans": [
+      "아마도"
+    ]
+  },
+  {
+    "name": "ring",
+    "trans": [
+      "링"
+    ]
+  },
+  {
+    "name": "cover",
+    "trans": [
+      "덮다"
+    ]
+  },
+  {
+    "name": "indicator",
+    "trans": [
+      "지표"
+    ]
+  },
+  {
+    "name": "apple",
+    "trans": [
+      "사과"
+    ]
+  },
+  {
+    "name": "icon",
+    "trans": [
+      "아이콘"
+    ]
+  },
+  {
+    "name": "consideration",
+    "trans": [
+      "고려"
+    ]
+  },
+  {
+    "name": "skill",
+    "trans": [
+      "기술"
+    ]
+  },
+  {
+    "name": "picture",
+    "trans": [
+      "그림"
+    ]
+  },
+  {
+    "name": "layout",
+    "trans": [
+      "레이아웃"
+    ]
+  },
+  {
+    "name": "suggest",
+    "trans": [
+      "제안하다"
+    ]
+  },
+  {
+    "name": "convenient",
+    "trans": [
+      "편리한"
+    ]
+  },
+  {
+    "name": "instruct",
+    "trans": [
+      "지시하다"
+    ]
+  },
+  {
+    "name": "appendix",
+    "trans": [
+      "부록"
+    ]
+  },
+  {
+    "name": "medium",
+    "trans": [
+      "매체"
+    ]
+  },
+  {
+    "name": "truncate",
+    "trans": [
+      "단축하다"
+    ]
+  },
+  {
+    "name": "inhibit",
+    "trans": [
+      "억제하다"
+    ]
+  },
+  {
+    "name": "nearly",
+    "trans": [
+      "거의"
+    ]
+  },
+  {
+    "name": "warn",
+    "trans": [
+      "경고하다"
+    ]
+  },
+  {
+    "name": "underline",
+    "trans": [
+      "밑줄"
+    ]
+  },
+  {
+    "name": "register",
+    "trans": [
+      "등록하다"
+    ]
+  },
+  {
+    "name": "stuff",
+    "trans": [
+      "물건"
+    ]
+  },
+  {
+    "name": "exclude",
+    "trans": [
+      "제외하다"
+    ]
+  },
+  {
+    "name": "destroy",
+    "trans": [
+      "파괴하다"
+    ]
+  },
+  {
+    "name": "calculation",
+    "trans": [
+      "계산"
+    ]
+  },
+  {
+    "name": "angle",
+    "trans": [
+      "각도"
+    ]
+  },
+  {
+    "name": "lexical",
+    "trans": [
+      "어휘의"
+    ]
+  },
+  {
+    "name": "decide",
+    "trans": [
+      "결정하다"
+    ]
+  },
+  {
+    "name": "trouble",
+    "trans": [
+      "문제"
+    ]
+  },
+  {
+    "name": "customer",
+    "trans": [
+      "고객"
+    ]
+  },
+  {
+    "name": "port",
+    "trans": [
+      "항구"
+    ]
+  },
+  {
+    "name": "discuss",
+    "trans": [
+      "토론하다"
+    ]
+  },
+  {
+    "name": "segment",
+    "trans": [
+      "부분"
+    ]
+  },
+  {
+    "name": "filing",
+    "trans": [
+      "파일"
+    ]
+  },
+  {
+    "name": "market",
+    "trans": [
+      "시장"
+    ]
+  },
+  {
+    "name": "valuable",
+    "trans": [
+      "귀중한"
+    ]
+  },
+  {
+    "name": "limited",
+    "trans": [
+      "제한된"
+    ]
+  },
+  {
+    "name": "trying",
+    "trans": [
+      "힘든"
+    ]
+  },
+  {
+    "name": "heap",
+    "trans": [
+      "더미"
+    ]
+  },
+  {
+    "name": "grey",
+    "trans": [
+      "회색"
+    ]
+  },
+  {
+    "name": "permanently",
+    "trans": [
+      "영구적으로"
+    ]
+  },
+  {
+    "name": "accelerator",
+    "trans": [
+      "가속기"
+    ]
+  },
+  {
+    "name": "originally",
+    "trans": [
+      "원래"
+    ]
+  },
+  {
+    "name": "ability",
+    "trans": [
+      "능력"
+    ]
+  },
+  {
+    "name": "internally",
+    "trans": [
+      "내부적으로"
+    ]
+  },
+  {
+    "name": "derelict",
+    "trans": [
+      "버려진"
+    ]
+  },
+  {
+    "name": "redirect",
+    "trans": [
+      "재전송"
+    ]
+  },
+  {
+    "name": "reside",
+    "trans": [
+      "거주하다"
+    ]
+  },
+  {
+    "name": "header",
+    "trans": [
+      "헤더"
+    ]
+  },
+  {
+    "name": "extra",
+    "trans": [
+      "추가의"
+    ]
+  },
+  {
+    "name": "repeated",
+    "trans": [
+      "반복된"
+    ]
+  },
+  {
+    "name": "death",
+    "trans": [
+      "죽음"
+    ]
+  },
+  {
+    "name": "observe",
+    "trans": [
+      "관찰하다"
+    ]
+  },
+  {
+    "name": "density",
+    "trans": [
+      "밀도"
+    ]
+  },
+  {
+    "name": "management",
+    "trans": [
+      "관리"
+    ]
+  },
+  {
+    "name": "environmental",
+    "trans": [
+      "환경의"
+    ]
+  },
+  {
+    "name": "surrounding",
+    "trans": [
+      "주변의"
+    ]
+  },
+  {
+    "name": "master",
+    "trans": [
+      "주인"
+    ]
+  },
+  {
+    "name": "recursive",
+    "trans": [
+      "재귀의"
+    ]
+  },
+  {
+    "name": "trap",
+    "trans": [
+      "함정"
+    ]
+  },
+  {
+    "name": "dimensional",
+    "trans": [
+      "차원"
+    ]
+  },
+  {
+    "name": "logic",
+    "trans": [
+      "논리"
+    ]
+  },
+  {
+    "name": "conjunction",
+    "trans": [
+      "접속사"
+    ]
+  },
+  {
+    "name": "identical",
+    "trans": [
+      "동일한"
+    ]
+  },
+  {
+    "name": "advice",
+    "trans": [
+      "조언"
+    ]
+  },
+  {
+    "name": "meaning",
+    "trans": [
+      "의미"
+    ]
+  },
+  {
+    "name": "fall",
+    "trans": [
+      "가을"
+    ]
+  },
+  {
+    "name": "interval",
+    "trans": [
+      "간격"
+    ]
+  },
+  {
+    "name": "compatibility",
+    "trans": [
+      "호환성"
+    ]
+  },
+  {
+    "name": "rule",
+    "trans": [
+      "규칙"
+    ]
+  },
+  {
+    "name": "flag",
+    "trans": [
+      "깃발"
+    ]
+  },
+  {
+    "name": "criterion",
+    "trans": [
+      "기준"
+    ]
+  },
+  {
+    "name": "office",
+    "trans": [
+      "사무실"
+    ]
+  },
+  {
+    "name": "express",
+    "trans": [
+      "급행"
+    ]
+  },
+  {
+    "name": "volume",
+    "trans": [
+      "부피"
+    ]
+  },
+  {
+    "name": "soft",
+    "trans": [
+      "부드러운"
+    ]
+  },
+  {
+    "name": "activity",
+    "trans": [
+      "활동"
+    ]
+  },
+  {
+    "name": "odometer",
+    "trans": [
+      "주행거리계"
+    ]
+  },
+  {
+    "name": "phoenix",
+    "trans": [
+      "불사조"
+    ]
+  },
+  {
+    "name": "obtain",
+    "trans": [
+      "얻다"
+    ]
+  },
+  {
+    "name": "easel",
+    "trans": [
+      "이젤"
+    ]
+  },
+  {
+    "name": "latter",
+    "trans": [
+      "후자"
+    ]
+  },
+  {
+    "name": "decrease",
+    "trans": [
+      "감소"
+    ]
+  },
+  {
+    "name": "mainframe",
+    "trans": [
+      "메인프레임"
+    ]
+  },
+  {
+    "name": "diacritical",
+    "trans": [
+      "구별하는"
+    ]
+  },
+  {
+    "name": "confidential",
+    "trans": [
+      "기밀의"
+    ]
+  },
+  {
+    "name": "trace",
+    "trans": [
+      "흔적"
+    ]
+  },
+  {
+    "name": "division",
+    "trans": [
+      "구분"
+    ]
+  },
+  {
+    "name": "regular",
+    "trans": [
+      "규칙적인"
+    ]
+  },
+  {
+    "name": "implicit",
+    "trans": [
+      "암시적인"
+    ]
+  },
+  {
+    "name": "mention",
+    "trans": [
+      "언급하다"
+    ]
+  },
+  {
+    "name": "near",
+    "trans": [
+      "가까운"
+    ]
+  },
+  {
+    "name": "fifth",
+    "trans": [
+      "다섯 번째"
+    ]
+  },
+  {
+    "name": "seven",
+    "trans": [
+      "일곱"
+    ]
+  },
+  {
+    "name": "whereas",
+    "trans": [
+      "그러나"
+    ]
+  },
+  {
+    "name": "review",
+    "trans": [
+      "검토"
+    ]
+  },
+  {
+    "name": "transform",
+    "trans": [
+      "변형하다"
+    ]
+  },
+  {
+    "name": "align",
+    "trans": [
+      "정렬하다"
+    ]
+  },
+  {
+    "name": "yellow",
+    "trans": [
+      "노란색"
+    ]
+  },
+  {
+    "name": "assist",
+    "trans": [
+      "도움"
+    ]
+  },
+  {
+    "name": "finish",
+    "trans": [
+      "완료하다"
+    ]
+  },
+  {
+    "name": "micro",
+    "trans": [
+      "미세한"
+    ]
+  },
+  {
+    "name": "beyond",
+    "trans": [
+      "너머"
+    ]
+  },
+  {
+    "name": "against",
+    "trans": [
+      "반대"
+    ]
+  },
+  {
+    "name": "upon",
+    "trans": [
+      "위에"
+    ]
+  },
+  {
+    "name": "service",
+    "trans": [
+      "서비스"
+    ]
+  },
+  {
+    "name": "little",
+    "trans": [
+      "작은"
+    ]
+  },
+  {
+    "name": "exhaust",
+    "trans": [
+      "소모하다"
+    ]
+  },
+  {
+    "name": "choice",
+    "trans": [
+      "선택"
+    ]
+  },
+  {
+    "name": "sounding",
+    "trans": [
+      "소리내기"
+    ]
+  },
+  {
+    "name": "develop",
+    "trans": [
+      "개발하다"
+    ]
+  },
+  {
+    "name": "holding",
+    "trans": [
+      "유지"
+    ]
+  },
+  {
+    "name": "alpha",
+    "trans": [
+      "알파"
+    ]
+  },
+  {
+    "name": "constant",
+    "trans": [
+      "일정한"
+    ]
+  },
+  {
+    "name": "warranty",
+    "trans": [
+      "보증"
+    ]
+  },
+  {
+    "name": "stay",
+    "trans": [
+      "머무르다"
+    ]
+  },
+  {
+    "name": "industry",
+    "trans": [
+      "산업"
+    ]
+  },
+  {
+    "name": "trigger",
+    "trans": [
+      "유발하다"
+    ]
+  },
+  {
+    "name": "lesson",
+    "trans": [
+      "수업"
+    ]
+  },
+  {
+    "name": "treat",
+    "trans": [
+      "대하다"
+    ]
+  },
+  {
+    "name": "busy",
+    "trans": [
+      "바쁜"
+    ]
+  },
+  {
+    "name": "usage",
+    "trans": [
+      "용법"
+    ]
+  },
+  {
+    "name": "difficult",
+    "trans": [
+      "어려운"
+    ]
+  },
+  {
+    "name": "failure",
+    "trans": [
+      "실패"
+    ]
+  },
+  {
+    "name": "communication",
+    "trans": [
+      "소통"
+    ]
+  },
+  {
+    "name": "building",
+    "trans": [
+      "건물"
+    ]
+  },
+  {
+    "name": "ally",
+    "trans": [
+      "동맹"
+    ]
+  },
+  {
+    "name": "exclamation",
+    "trans": [
+      "감탄사"
+    ]
+  },
+  {
+    "name": "turning",
+    "trans": [
+      "회전"
+    ]
+  },
+  {
+    "name": "whole",
+    "trans": [
+      "전체"
+    ]
+  },
+  {
+    "name": "parent",
+    "trans": [
+      "부모"
+    ]
+  },
+  {
+    "name": "connection",
+    "trans": [
+      "연결"
+    ]
+  },
+  {
+    "name": "connectivity",
+    "trans": [
+      "연결성"
+    ]
+  },
+  {
+    "name": "translation",
+    "trans": [
+      "번역"
+    ]
+  },
+  {
+    "name": "dynamic",
+    "trans": [
+      "동적"
+    ]
+  },
+  {
+    "name": "foreground",
+    "trans": [
+      "전경"
+    ]
+  },
+  {
+    "name": "preserve",
+    "trans": [
+      "보호하다"
+    ]
+  },
+  {
+    "name": "vice",
+    "trans": [
+      "악습"
+    ]
+  },
+  {
+    "name": "necessarily",
+    "trans": [
+      "필연적으로"
+    ]
+  },
+  {
+    "name": "circle",
+    "trans": [
+      "원"
+    ]
+  },
+  {
+    "name": "differ",
+    "trans": [
+      "다르다"
+    ]
+  },
+  {
+    "name": "stationary",
+    "trans": [
+      "정지된"
+    ]
+  },
+  {
+    "name": "extract",
+    "trans": [
+      "추출하다"
+    ]
+  },
+  {
+    "name": "unrecognized",
+    "trans": [
+      "인정받지 않은"
+    ]
+  },
+  {
+    "name": "thereafter",
+    "trans": [
+      "그 이후에"
+    ]
+  },
+  {
+    "name": "inverse",
+    "trans": [
+      "반대의"
+    ]
+  },
+  {
+    "name": "spell",
+    "trans": [
+      "철자하다"
+    ]
+  },
+  {
+    "name": "limiting",
+    "trans": [
+      "제한하는"
+    ]
+  },
+  {
+    "name": "restructure",
+    "trans": [
+      "구조 변경"
+    ]
+  },
+  {
+    "name": "delimit",
+    "trans": [
+      "경계 설정"
+    ]
+  },
+  {
+    "name": "pay",
+    "trans": [
+      "급여",
+      "지불"
+    ]
+  },
+  {
+    "name": "separately",
+    "trans": [
+      "별도로"
+    ]
+  },
+  {
+    "name": "classify",
+    "trans": [
+      "분류하다"
+    ]
+  },
+  {
+    "name": "interfere",
+    "trans": [
+      "간섭하다"
+    ]
+  },
+  {
+    "name": "mind",
+    "trans": [
+      "마음",
+      "주의하다"
+    ]
+  },
+  {
+    "name": "individually",
+    "trans": [
+      "개별적으로"
+    ]
+  },
+  {
+    "name": "vertical",
+    "trans": [
+      "수직의"
+    ]
+  },
+  {
+    "name": "undesirable",
+    "trans": [
+      "바람직하지 않은"
+    ]
+  },
+  {
+    "name": "lot",
+    "trans": [
+      "많은"
+    ]
+  },
+  {
+    "name": "piece",
+    "trans": [
+      "조각"
+    ]
+  },
+  {
+    "name": "unavailable",
+    "trans": [
+      "사용 불가"
+    ]
+  },
+  {
+    "name": "unlike",
+    "trans": [
+      "다른"
+    ]
+  },
+  {
+    "name": "sit",
+    "trans": [
+      "앉다"
+    ]
+  },
+  {
+    "name": "insufficient",
+    "trans": [
+      "불충분한"
+    ]
+  },
+  {
+    "name": "map",
+    "trans": [
+      "지도"
+    ]
+  },
+  {
+    "name": "figure",
+    "trans": [
+      "형태"
+    ]
+  },
+  {
+    "name": "prepare",
+    "trans": [
+      "준비하다"
+    ]
+  },
+  {
+    "name": "consider",
+    "trans": [
+      "고려하다"
+    ]
+  },
+  {
+    "name": "detect",
+    "trans": [
+      "탐지하다"
+    ]
+  },
+  {
+    "name": "convenience",
+    "trans": [
+      "편리함"
+    ]
+  },
+  {
+    "name": "method",
+    "trans": [
+      "방법"
+    ]
+  },
+  {
+    "name": "mean",
+    "trans": [
+      "평균"
+    ]
+  },
+  {
+    "name": "salary",
+    "trans": [
+      "급여"
+    ]
+  },
+  {
+    "name": "pacific",
+    "trans": [
+      "평화로운"
+    ]
+  },
+  {
+    "name": "strong",
+    "trans": [
+      "강한"
+    ]
+  },
+  {
+    "name": "emphasize",
+    "trans": [
+      "강조하다"
+    ]
+  },
+  {
+    "name": "department",
+    "trans": [
+      "부서"
+    ]
+  },
+  {
+    "name": "forced",
+    "trans": [
+      "강제된"
+    ]
+  },
+  {
+    "name": "ANSI",
+    "trans": [
+      "미국 국가 표준 협회"
+    ]
+  },
+  {
+    "name": "permanent",
+    "trans": [
+      "영구적인"
+    ]
+  },
+  {
+    "name": "remark",
+    "trans": [
+      "주석"
+    ]
+  },
+  {
+    "name": "away",
+    "trans": [
+      "멀리"
+    ]
+  },
+  {
+    "name": "concatenate",
+    "trans": [
+      "연결하다"
+    ]
+  },
+  {
+    "name": "lightning",
+    "trans": [
+      "번개"
+    ]
+  },
+  {
+    "name": "additionally",
+    "trans": [
+      "추가로"
+    ]
+  },
+  {
+    "name": "emulate",
+    "trans": [
+      "모방하다"
+    ]
+  },
+  {
+    "name": "tape",
+    "trans": [
+      "테이프"
+    ]
+  },
+  {
+    "name": "concept",
+    "trans": [
+      "개념"
+    ]
+  },
+  {
+    "name": "optimize",
+    "trans": [
+      "최적화하다"
+    ]
+  },
+  {
+    "name": "counter",
+    "trans": [
+      "계산기"
+    ]
+  },
+  {
+    "name": "expect",
+    "trans": [
+      "기대하다"
+    ]
+  },
+  {
+    "name": "subsequently",
+    "trans": [
+      "그 후"
+    ]
+  },
+  {
+    "name": "registration",
+    "trans": [
+      "등록"
+    ]
+  },
+  {
+    "name": "city",
+    "trans": [
+      "도시"
+    ]
+  },
+  {
+    "name": "designate",
+    "trans": [
+      "지정하다"
+    ]
+  },
+  {
+    "name": "visible",
+    "trans": [
+      "보이는"
+    ]
+  },
+  {
+    "name": "consult",
+    "trans": [
+      "상담하다"
+    ]
+  },
+  {
+    "name": "completely",
+    "trans": [
+      "완전히"
+    ]
+  },
+  {
+    "name": "virtually",
+    "trans": [
+      "거의"
+    ]
+  },
+  {
+    "name": "substantially",
+    "trans": [
+      "실질적으로"
+    ]
+  },
+  {
+    "name": "specialize",
+    "trans": [
+      "전문화하다"
+    ]
+  },
+  {
+    "name": "fail",
+    "trans": [
+      "실패하다"
+    ]
+  },
+  {
+    "name": "primarily",
+    "trans": [
+      "주로"
+    ]
+  },
+  {
+    "name": "client",
+    "trans": [
+      "고객"
+    ]
+  },
+  {
+    "name": "runtime",
+    "trans": [
+      "실행 시간"
+    ]
+  },
+  {
+    "name": "fix",
+    "trans": [
+      "수리하다"
+    ]
+  },
+  {
+    "name": "author",
+    "trans": [
+      "저자"
+    ]
+  },
+  {
+    "name": "programmer",
+    "trans": [
+      "프로그래머"
+    ]
+  },
+  {
+    "name": "commercial",
+    "trans": [
+      "상업적인"
+    ]
+  },
+  {
+    "name": "particularly",
+    "trans": [
+      "특히"
+    ]
+  },
+  {
+    "name": "low",
+    "trans": [
+      "낮은"
+    ]
+  },
+  {
+    "name": "sheet",
+    "trans": [
+      "시트"
+    ]
+  },
+  {
+    "name": "employee",
+    "trans": [
+      "직원"
+    ]
+  },
+  {
+    "name": "legal",
+    "trans": [
+      "법적인"
+    ]
+  },
+  {
+    "name": "qualified",
+    "trans": [
+      "자격이 있는"
+    ]
+  },
+  {
+    "name": "context",
+    "trans": [
+      "맥락"
+    ]
+  },
+  {
+    "name": "involved",
+    "trans": [
+      "관련된"
+    ]
+  },
+  {
+    "name": "conditional",
+    "trans": [
+      "조건부의"
+    ]
+  },
+  {
+    "name": "halfway",
+    "trans": [
+      "중간의"
+    ]
+  },
+  {
+    "name": "oriented",
+    "trans": [
+      "지향하는"
+    ]
+  },
+  {
+    "name": "pair",
+    "trans": [
+      "쌍"
+    ]
+  },
+  {
+    "name": "week",
+    "trans": [
+      "주"
+    ]
+  },
+  {
+    "name": "subroutine",
+    "trans": [
+      "서브루틴"
+    ]
+  },
+  {
+    "name": "manually",
+    "trans": [
+      "수동으로"
+    ]
+  },
+  {
+    "name": "preset",
+    "trans": [
+      "사전 설정된"
+    ]
+  },
+  {
+    "name": "autoindex",
+    "trans": [
+      "자동 색인"
+    ]
+  },
+  {
+    "name": "restrict",
+    "trans": [
+      "제한하다"
+    ]
+  },
+  {
+    "name": "performance",
+    "trans": [
+      "성능"
+    ]
+  },
+  {
+    "name": "showing",
+    "trans": [
+      "표시"
+    ]
+  },
+  {
+    "name": "ever",
+    "trans": [
+      "언제나"
+    ]
+  },
+  {
+    "name": "distribution",
+    "trans": [
+      "분배"
+    ]
+  },
+  {
+    "name": "denote",
+    "trans": [
+      "나타내다"
+    ]
+  },
+  {
+    "name": "cash",
+    "trans": [
+      "현금"
+    ]
+  },
+  {
+    "name": "repeatedly",
+    "trans": [
+      "반복적으로"
+    ]
+  },
+  {
+    "name": "replicate",
+    "trans": [
+      "복제하다"
+    ]
+  },
+  {
+    "name": "mega",
+    "trans": [
+      "메가"
+    ]
+  },
+  {
+    "name": "conform",
+    "trans": [
+      "따르다"
+    ]
+  },
+  {
+    "name": "rebuild",
+    "trans": [
+      "재건하다"
+    ]
+  },
+  {
+    "name": "certainty",
+    "trans": [
+      "확실성"
+    ]
+  },
+  {
+    "name": "controller",
+    "trans": [
+      "제어기"
+    ]
+  },
+  {
+    "name": "pseudo",
+    "trans": [
+      "가짜"
+    ]
+  },
+  {
+    "name": "manage",
+    "trans": [
+      "관리하다"
+    ]
+  },
+  {
+    "name": "administrator",
+    "trans": [
+      "관리자"
+    ]
+  },
+  {
+    "name": "ensemble",
+    "trans": [
+      "전체"
+    ]
+  },
+  {
+    "name": "bus",
+    "trans": [
+      "버스"
+    ]
+  },
+  {
+    "name": "allowable",
+    "trans": [
+      "허용되는"
+    ]
+  },
+  {
+    "name": "restriction",
+    "trans": [
+      "제한"
+    ]
+  },
+  {
+    "name": "height",
+    "trans": [
+      "높이"
+    ]
+  },
+  {
+    "name": "remainder",
+    "trans": [
+      "나머지"
+    ]
+  },
+  {
+    "name": "traverse",
+    "trans": [
+      "가로지르다"
+    ]
+  },
+  {
+    "name": "organization",
+    "trans": [
+      "조직"
+    ]
+  },
+  {
+    "name": "resulting",
+    "trans": [
+      "결과적인"
+    ]
+  },
+  {
+    "name": "solution",
+    "trans": [
+      "해결책"
+    ]
+  },
+  {
+    "name": "external",
+    "trans": [
+      "외부의"
+    ]
+  },
+  {
+    "name": "adequate",
+    "trans": [
+      "충분한"
+    ]
+  },
+  {
+    "name": "vary",
+    "trans": [
+      "변화하다"
+    ]
+  },
+  {
+    "name": "gap",
+    "trans": [
+      "차이"
+    ]
+  },
+  {
+    "name": "indexing",
+    "trans": [
+      "색인"
+    ]
+  },
+  {
+    "name": "board",
+    "trans": [
+      "판"
+    ]
+  },
+  {
+    "name": "package",
+    "trans": [
+      "패키지"
+    ]
+  },
+  {
+    "name": "insertion",
+    "trans": [
+      "삽입"
+    ]
+  },
+  {
+    "name": "intervene",
+    "trans": [
+      "介入하다"
+    ]
+  },
+  {
+    "name": "conflict",
+    "trans": [
+      "갈등"
+    ]
+  },
+  {
+    "name": "really",
+    "trans": [
+      "정말로"
+    ]
+  },
+  {
+    "name": "overflow",
+    "trans": [
+      "넘치다"
+    ]
+  },
+  {
+    "name": "charge",
+    "trans": [
+      "요금"
+    ]
+  },
+  {
+    "name": "phone",
+    "trans": [
+      "전화"
+    ]
+  },
+  {
+    "name": "virtual",
+    "trans": [
+      "가상"
+    ]
+  },
+  {
+    "name": "compose",
+    "trans": [
+      "구성하다"
+    ]
+  },
+  {
+    "name": "snapshot",
+    "trans": [
+      "스냅샷"
+    ]
+  },
+  {
+    "name": "sensitivity",
+    "trans": [
+      "민감성"
+    ]
+  },
+  {
+    "name": "familiar",
+    "trans": [
+      "친숙한"
+    ]
+  },
+  {
+    "name": "Mach",
+    "trans": [
+      "마하"
+    ]
+  },
+  {
+    "name": "incorrect",
+    "trans": [
+      "부정확한"
+    ]
+  },
+  {
+    "name": "cut",
+    "trans": [
+      "자르다"
+    ]
+  },
+  {
+    "name": "lowest",
+    "trans": [
+      "최저의"
+    ]
+  },
+  {
+    "name": "simple",
+    "trans": [
+      "간단한"
+    ]
+  },
+  {
+    "name": "subsequent",
+    "trans": [
+      "후속의"
+    ]
+  },
+  {
+    "name": "compact",
+    "trans": [
+      "콤팩트한"
+    ]
+  },
+  {
+    "name": "plain",
+    "trans": [
+      "평범한"
+    ]
+  },
+  {
+    "name": "noted",
+    "trans": [
+      "저명한"
+    ]
+  },
+  {
+    "name": "desirable",
+    "trans": [
+      "바람직한"
+    ]
+  },
+  {
+    "name": "substitution",
+    "trans": [
+      "대체"
+    ]
+  },
+  {
+    "name": "consume",
+    "trans": [
+      "소비하다"
+    ]
+  },
+  {
+    "name": "forget",
+    "trans": [
+      "잊다"
+    ]
+  },
+  {
+    "name": "keyed",
+    "trans": [
+      "입력하다"
+    ]
+  },
+  {
+    "name": "tornado",
+    "trans": [
+      "토네이도"
+    ]
+  },
+  {
+    "name": "quotation",
+    "trans": [
+      "인용"
+    ]
+  },
+  {
+    "name": "parse",
+    "trans": [
+      "구문 분석하다"
+    ]
+  },
+  {
+    "name": "experience",
+    "trans": [
+      "경험"
+    ]
+  },
+  {
+    "name": "manufacture",
+    "trans": [
+      "제조하다"
+    ]
+  },
+  {
+    "name": "hundred",
+    "trans": [
+      "백"
+    ]
+  },
+  {
+    "name": "thousand",
+    "trans": [
+      "천"
+    ]
+  },
+  {
+    "name": "twentieth",
+    "trans": [
+      "이십"
+    ]
+  },
+  {
+    "name": "understanding",
+    "trans": [
+      "이해"
+    ]
+  },
+  {
+    "name": "hand",
+    "trans": [
+      "손"
+    ]
+  },
+  {
+    "name": "fancy",
+    "trans": [
+      "상상"
+    ]
+  },
+  {
+    "name": "wide",
+    "trans": [
+      "넓은"
+    ]
+  },
+  {
+    "name": "fine",
+    "trans": [
+      "벌금"
+    ]
+  },
+  {
+    "name": "worry",
+    "trans": [
+      "걱정"
+    ]
+  },
+  {
+    "name": "quiet",
+    "trans": [
+      "조용한"
+    ]
+  },
+  {
+    "name": "purge",
+    "trans": [
+      "정화"
+    ]
+  },
+  {
+    "name": "mod",
+    "trans": [
+      "현대의"
+    ]
+  },
+  {
+    "name": "numeral",
+    "trans": [
+      "숫자"
+    ]
+  },
+  {
+    "name": "whichever",
+    "trans": [
+      "어느 것"
+    ]
+  },
+  {
+    "name": "purchase",
+    "trans": [
+      "구매"
+    ]
+  },
+  {
+    "name": "care",
+    "trans": [
+      "돌봄"
+    ]
+  },
+  {
+    "name": "watch",
+    "trans": [
+      "시계"
+    ]
+  },
+  {
+    "name": "endeavor",
+    "trans": [
+      "노력"
+    ]
+  },
+  {
+    "name": "mismatch",
+    "trans": [
+      "불일치"
+    ]
+  },
+  {
+    "name": "printout",
+    "trans": [
+      "출력"
+    ]
+  },
+  {
+    "name": "ellipsis",
+    "trans": [
+      "생략"
+    ]
+  },
+  {
+    "name": "ship",
+    "trans": [
+      "배"
+    ]
+  },
+  {
+    "name": "British",
+    "trans": [
+      "영국의"
+    ]
+  },
+  {
+    "name": "parallel",
+    "trans": [
+      "평행한"
+    ]
+  },
+  {
+    "name": "custom",
+    "trans": [
+      "관습"
+    ]
+  },
+  {
+    "name": "congratulation",
+    "trans": [
+      "축하"
+    ]
+  },
+  {
+    "name": "protection",
+    "trans": [
+      "보호"
+    ]
+  },
+  {
+    "name": "glass",
+    "trans": [
+      "유리"
+    ]
+  },
+  {
+    "name": "pattern",
+    "trans": [
+      "패턴"
+    ]
+  },
+  {
+    "name": "insure",
+    "trans": [
+      "보험"
+    ]
+  },
+  {
+    "name": "factory",
+    "trans": [
+      "공장"
+    ]
+  },
+  {
+    "name": "implement",
+    "trans": [
+      "도구"
+    ]
+  },
+  {
+    "name": "effort",
+    "trans": [
+      "노력"
+    ]
+  },
+  {
+    "name": "worker",
+    "trans": [
+      "근로자"
+    ]
+  },
+  {
+    "name": "ampersand",
+    "trans": [
+      "그리고"
+    ]
+  },
+  {
+    "name": "deal",
+    "trans": [
+      "거래"
+    ]
+  },
+  {
+    "name": "power",
+    "trans": [
+      "힘"
+    ]
+  },
+  {
+    "name": "difficulty",
+    "trans": [
+      "어려움"
+    ]
+  },
+  {
+    "name": "lose",
+    "trans": [
+      "잃다"
+    ]
+  },
+  {
+    "name": "magic",
+    "trans": [
+      "마법"
+    ]
+  },
+  {
+    "name": "proprietary",
+    "trans": [
+      "소유권"
+    ]
+  },
+  {
+    "name": "aware",
+    "trans": [
+      "알고 있는"
+    ]
+  },
+  {
+    "name": "numerous",
+    "trans": [
+      "많은"
+    ]
+  },
+  {
+    "name": "vowel",
+    "trans": [
+      "모음"
+    ]
+  },
+  {
+    "name": "closely",
+    "trans": [
+      "가까이"
+    ]
+  },
+  {
+    "name": "accuracy",
+    "trans": [
+      "정확성"
+    ]
+  },
+  {
+    "name": "traditional",
+    "trans": [
+      "전통적인"
+    ]
+  },
+  {
+    "name": "synchronization",
+    "trans": [
+      "동기화"
+    ]
+  },
+  {
+    "name": "fragment",
+    "trans": [
+      "조각"
+    ]
+  },
+  {
+    "name": "primary",
+    "trans": [
+      "주요한"
+    ]
+  },
+  {
+    "name": "safely",
+    "trans": [
+      "안전하게"
+    ]
+  },
+  {
+    "name": "habit",
+    "trans": [
+      "습관"
+    ]
+  },
+  {
+    "name": "comprise",
+    "trans": [
+      "포함하다"
+    ]
+  },
+  {
+    "name": "landler",
+    "trans": [
+      "란들러"
+    ]
+  },
+  {
+    "name": "absence",
+    "trans": [
+      "부재"
+    ]
+  },
+  {
+    "name": "revolutionize",
+    "trans": [
+      "혁신하다"
+    ]
+  },
+  {
+    "name": "constantly",
+    "trans": [
+      "지속적으로"
+    ]
+  },
+  {
+    "name": "seldom",
+    "trans": [
+      "드물게"
+    ]
+  },
+  {
+    "name": "unfortunately",
+    "trans": [
+      "불행히도"
+    ]
+  },
+  {
+    "name": "expunge",
+    "trans": [
+      "삭제하다"
+    ]
+  },
+  {
+    "name": "security",
+    "trans": [
+      "안전"
+    ]
+  },
+  {
+    "name": "touch",
+    "trans": [
+      "접촉"
+    ]
+  },
+  {
+    "name": "contrast",
+    "trans": [
+      "대조"
+    ]
+  },
+  {
+    "name": "invent",
+    "trans": [
+      "발명하다"
+    ]
+  },
+  {
+    "name": "reflect",
+    "trans": [
+      "반영하다"
+    ]
+  },
+  {
+    "name": "undone",
+    "trans": [
+      "미완성의"
+    ]
+  },
+  {
+    "name": "unshift",
+    "trans": [
+      "해제하다"
+    ]
+  },
+  {
+    "name": "complex",
+    "trans": [
+      "복잡한"
+    ]
+  },
+  {
+    "name": "complexity",
+    "trans": [
+      "복잡성"
+    ]
+  },
+  {
+    "name": "creation",
+    "trans": [
+      "창조"
+    ]
+  },
+  {
+    "name": "unknown",
+    "trans": [
+      "알려지지 않은"
+    ]
+  },
+  {
+    "name": "greatly",
+    "trans": [
+      "매우"
+    ]
+  },
+  {
+    "name": "cost",
+    "trans": [
+      "비용"
+    ]
+  },
+  {
+    "name": "degrade",
+    "trans": [
+      "저하시키다"
+    ]
+  },
+  {
+    "name": "suggestion",
+    "trans": [
+      "제안"
+    ]
+  },
+  {
+    "name": "real",
+    "trans": [
+      "실제의"
+    ]
+  },
+  {
+    "name": "experimentation",
+    "trans": [
+      "실험"
+    ]
+  },
+  {
+    "name": "experiment",
+    "trans": [
+      "실험"
+    ]
+  },
+  {
+    "name": "substantial",
+    "trans": [
+      "상당한"
+    ]
+  },
+  {
+    "name": "solely",
+    "trans": [
+      "독자적으로"
+    ]
+  },
+  {
+    "name": "announce",
+    "trans": [
+      "발표하다"
+    ]
+  },
+  {
+    "name": "squeeze",
+    "trans": [
+      "압착"
+    ]
+  },
+  {
+    "name": "distribute",
+    "trans": [
+      "분배하다"
+    ]
+  },
+  {
+    "name": "negate",
+    "trans": [
+      "부정하다"
+    ]
+  },
+  {
+    "name": "capture",
+    "trans": [
+      "포획"
+    ]
+  },
+  {
+    "name": "father",
+    "trans": [
+      "아버지"
+    ]
+  },
+  {
+    "name": "reinstate",
+    "trans": [
+      "복원하다"
+    ]
+  },
+  {
+    "name": "tutorial",
+    "trans": [
+      "개별 지도"
+    ]
+  },
+  {
+    "name": "nicety",
+    "trans": [
+      "정밀함"
+    ]
+  },
+  {
+    "name": "roll",
+    "trans": [
+      "구르다"
+    ]
+  },
+  {
+    "name": "exponent",
+    "trans": [
+      "지지자"
+    ]
+  },
+  {
+    "name": "exponential",
+    "trans": [
+      "지수의"
+    ]
+  },
+  {
+    "name": "prefer",
+    "trans": [
+      "선호하다"
+    ]
+  },
+  {
+    "name": "complicated",
+    "trans": [
+      "복잡한"
+    ]
+  },
+  {
+    "name": "reactivate",
+    "trans": [
+      "재활성화하다"
+    ]
+  },
+  {
+    "name": "spread",
+    "trans": [
+      "퍼지다"
+    ]
+  },
+  {
+    "name": "synchronize",
+    "trans": [
+      "동기화하다"
+    ]
+  },
+  {
+    "name": "formation",
+    "trans": [
+      "형성"
+    ]
+  },
+  {
+    "name": "widely",
+    "trans": [
+      "광범위하게"
+    ]
+  },
+  {
+    "name": "comma",
+    "trans": [
+      "쉼표"
+    ]
+  },
+  {
+    "name": "very",
+    "trans": [
+      "매우"
+    ]
+  },
+  {
+    "name": "unnecessary",
+    "trans": [
+      "불필요한"
+    ]
+  },
+  {
+    "name": "unchanged",
+    "trans": [
+      "변하지 않은"
+    ]
+  },
+  {
+    "name": "cross",
+    "trans": [
+      "교차"
+    ]
+  },
+  {
+    "name": "yet",
+    "trans": [
+      "아직"
+    ]
+  },
+  {
+    "name": "slowly",
+    "trans": [
+      "천천히"
+    ]
+  },
+  {
+    "name": "inexperienced",
+    "trans": [
+      "경험이 없는"
+    ]
+  },
+  {
+    "name": "unwanted",
+    "trans": [
+      "원하지 않는"
+    ]
+  },
+  {
+    "name": "unused",
+    "trans": [
+      "사용되지 않은"
+    ]
+  },
+  {
+    "name": "unmarked",
+    "trans": [
+      "표시되지 않은"
+    ]
+  },
+  {
+    "name": "nothing",
+    "trans": [
+      "아무것도"
+    ]
+  },
+  {
+    "name": "chart",
+    "trans": [
+      "차트"
+    ]
+  },
+  {
+    "name": "dearly",
+    "trans": [
+      "소중히"
+    ]
+  },
+  {
+    "name": "extremely",
+    "trans": [
+      "극도로"
+    ]
+  },
+  {
+    "name": "hardly",
+    "trans": [
+      "거의"
+    ]
+  },
+  {
+    "name": "placement",
+    "trans": [
+      "배치"
+    ]
+  },
+  {
+    "name": "think",
+    "trans": [
+      "생각하다"
+    ]
+  },
+  {
+    "name": "technical",
+    "trans": [
+      "기술적인"
+    ]
+  },
+  {
+    "name": "idea",
+    "trans": [
+      "아이디어"
+    ]
+  },
+  {
+    "name": "stamp",
+    "trans": [
+      "도장"
+    ]
+  },
+  {
+    "name": "equation",
+    "trans": [
+      "방정식"
+    ]
+  },
+  {
+    "name": "smooth",
+    "trans": [
+      "부드러운"
+    ]
+  },
+  {
+    "name": "attached",
+    "trans": [
+      "부착된"
+    ]
+  },
+  {
+    "name": "average",
+    "trans": [
+      "평균"
+    ]
+  },
+  {
+    "name": "quietly",
+    "trans": [
+      "조용히"
+    ]
+  },
+  {
+    "name": "discard",
+    "trans": [
+      "버리다"
+    ]
+  },
+  {
+    "name": "never",
+    "trans": [
+      "절대"
+    ]
+  },
+  {
+    "name": "initiate",
+    "trans": [
+      "시작하다"
+    ]
+  },
+  {
+    "name": "powerful",
+    "trans": [
+      "강력한"
+    ]
+  },
+  {
+    "name": "purpose",
+    "trans": [
+      "목적"
+    ]
+  },
+  {
+    "name": "regard",
+    "trans": [
+      "존경하다"
+    ]
+  },
+  {
+    "name": "daily",
+    "trans": [
+      "매일의"
+    ]
+  },
+  {
+    "name": "possibly",
+    "trans": [
+      "가능하게"
+    ]
+  },
+  {
+    "name": "potentially",
+    "trans": [
+      "잠재적으로"
+    ]
+  },
+  {
+    "name": "moreover",
+    "trans": [
+      "게다가"
+    ]
+  },
+  {
+    "name": "American",
+    "trans": [
+      "미국의"
+    ]
+  },
+  {
+    "name": "guard",
+    "trans": [
+      "경비"
+    ]
+  },
+  {
+    "name": "world",
+    "trans": [
+      "세계"
+    ]
+  },
+  {
+    "name": "independent",
+    "trans": [
+      "독립적인"
+    ]
+  },
+  {
+    "name": "independently",
+    "trans": [
+      "독립적으로"
+    ]
+  },
+  {
+    "name": "continuously",
+    "trans": [
+      "지속적으로"
+    ]
+  },
+  {
+    "name": "shield",
+    "trans": [
+      "방패"
+    ]
+  },
+  {
+    "name": "glance",
+    "trans": [
+      "흘끗 보다"
+    ]
+  },
+  {
+    "name": "happening",
+    "trans": [
+      "사건"
+    ]
+  },
+  {
+    "name": "transaction",
+    "trans": [
+      "거래"
+    ]
+  },
+  {
+    "name": "emulation",
+    "trans": [
+      "모방"
+    ]
+  },
+  {
+    "name": "strike",
+    "trans": [
+      "파업"
+    ]
+  },
+  {
+    "name": "dump",
+    "trans": [
+      "버리다"
+    ]
+  },
+  {
+    "name": "occasionally",
+    "trans": [
+      "가끔"
+    ]
+  },
+  {
+    "name": "tension",
+    "trans": [
+      "긴장"
+    ]
+  },
+  {
+    "name": "probable",
+    "trans": [
+      "가능한"
+    ]
+  },
+  {
+    "name": "talent",
+    "trans": [
+      "재능"
+    ]
+  },
+  {
+    "name": "financial",
+    "trans": [
+      "재정의"
+    ]
+  },
+  {
+    "name": "meter",
+    "trans": [
+      "미터"
+    ]
+  },
+  {
+    "name": "logged",
+    "trans": [
+      "기록된"
+    ]
+  },
+  {
+    "name": "ware",
+    "trans": [
+      "제품"
+    ]
+  },
+  {
+    "name": "disregard",
+    "trans": [
+      "무시하다"
+    ]
+  },
+  {
+    "name": "waiting",
+    "trans": [
+      "대기"
+    ]
+  },
+  {
+    "name": "preceding",
+    "trans": [
+      "선행하는"
+    ]
+  },
+  {
+    "name": "comparison",
+    "trans": [
+      "비교"
+    ]
+  },
+  {
+    "name": "advanced",
+    "trans": [
+      "고급의"
+    ]
+  },
+  {
+    "name": "rate",
+    "trans": [
+      "비율"
+    ]
+  },
+  {
+    "name": "fly",
+    "trans": [
+      "파리"
+    ]
+  },
+  {
+    "name": "programmable",
+    "trans": [
+      "프로그래밍 가능"
+    ]
+  },
+  {
+    "name": "definable",
+    "trans": [
+      "정의 가능"
+    ]
+  },
+  {
+    "name": "readable",
+    "trans": [
+      "읽기 쉬운"
+    ]
+  },
+  {
+    "name": "recoverable",
+    "trans": [
+      "복구 가능"
+    ]
+  },
+  {
+    "name": "possibility",
+    "trans": [
+      "가능성"
+    ]
+  },
+  {
+    "name": "finisher",
+    "trans": [
+      "마무리자"
+    ]
+  },
+  {
+    "name": "applicable",
+    "trans": [
+      "적용 가능한"
+    ]
+  },
+  {
+    "name": "printable",
+    "trans": [
+      "인쇄 가능"
+    ]
+  },
+  {
+    "name": "executable",
+    "trans": [
+      "실행 가능한"
+    ]
+  },
+  {
+    "name": "essentially",
+    "trans": [
+      "본질적으로"
+    ]
+  },
+  {
+    "name": "confuse",
+    "trans": [
+      "혼란"
+    ]
+  },
+  {
+    "name": "familiarize",
+    "trans": [
+      "익숙하게 하다"
+    ]
+  },
+  {
+    "name": "employe",
+    "trans": [
+      "직원"
+    ]
+  },
+  {
+    "name": "suitable",
+    "trans": [
+      "적합한"
+    ]
+  },
+  {
+    "name": "generation",
+    "trans": [
+      "세대"
+    ]
+  },
+  {
+    "name": "quality",
+    "trans": [
+      "품질"
+    ]
+  },
+  {
+    "name": "defective",
+    "trans": [
+      "결함 있는"
+    ]
+  },
+  {
+    "name": "interpretable",
+    "trans": [
+      "해석 가능"
+    ]
+  },
+  {
+    "name": "interest",
+    "trans": [
+      "관심"
+    ]
+  },
+  {
+    "name": "fourscore",
+    "trans": [
+      "여든"
+    ]
+  },
+  {
+    "name": "teach",
+    "trans": [
+      "가르치다"
+    ]
+  },
+  {
+    "name": "procedural",
+    "trans": [
+      "절차의"
+    ]
+  },
+  {
+    "name": "phrase",
+    "trans": [
+      "구"
+    ]
+  },
+  {
+    "name": "specifically",
+    "trans": [
+      "특정하게"
+    ]
+  },
+  {
+    "name": "penalty",
+    "trans": [
+      "처벌"
+    ]
+  },
+  {
+    "name": "violate",
+    "trans": [
+      "위반하다"
+    ]
+  },
+  {
+    "name": "indefinitely",
+    "trans": [
+      "무한히"
+    ]
+  },
+  {
+    "name": "major",
+    "trans": [
+      "주요한"
+    ]
+  },
+  {
+    "name": "higher",
+    "trans": [
+      "더 높은"
+    ]
+  },
+  {
+    "name": "wise",
+    "trans": [
+      "현명한"
+    ]
+  },
+  {
+    "name": "becoming",
+    "trans": [
+      "어울리는"
+    ]
+  },
+  {
+    "name": "equally",
+    "trans": [
+      "동등하게"
+    ]
+  },
+  {
+    "name": "enjoy",
+    "trans": [
+      "즐기다"
+    ]
+  },
+  {
+    "name": "forth",
+    "trans": [
+      "앞으로"
+    ]
+  },
+  {
+    "name": "disappear",
+    "trans": [
+      "사라지다"
+    ]
+  },
+  {
+    "name": "crop",
+    "trans": [
+      "작물"
+    ]
+  },
+  {
+    "name": "diagonally",
+    "trans": [
+      "대각선으로"
+    ]
+  },
+  {
+    "name": "decision",
+    "trans": [
+      "결정"
+    ]
+  },
+  {
+    "name": "effective",
+    "trans": [
+      "효과적인"
+    ]
+  },
+  {
+    "name": "significant",
+    "trans": [
+      "중요한"
+    ]
+  },
+  {
+    "name": "avail",
+    "trans": [
+      "유용하다"
+    ]
+  },
+  {
+    "name": "hang",
+    "trans": [
+      "매달리다"
+    ]
+  },
+  {
+    "name": "craze",
+    "trans": [
+      "열풍"
+    ]
+  },
+  {
+    "name": "consequently",
+    "trans": [
+      "결과적으로"
+    ]
+  },
+  {
+    "name": "introduce",
+    "trans": [
+      "소개하다"
+    ]
+  },
+  {
+    "name": "team",
+    "trans": [
+      "팀"
+    ]
+  },
+  {
+    "name": "visual",
+    "trans": [
+      "시각의"
+    ]
+  },
+  {
+    "name": "acknowledgment",
+    "trans": [
+      "인정"
+    ]
+  },
+  {
+    "name": "efficiently",
+    "trans": [
+      "효율적으로"
+    ]
+  },
+  {
+    "name": "predict",
+    "trans": [
+      "예측하다"
+    ]
+  },
+  {
+    "name": "anticipate",
+    "trans": [
+      "예상하다"
+    ]
+  },
+  {
+    "name": "bypass",
+    "trans": [
+      "우회하다"
+    ]
+  },
+  {
+    "name": "nature",
+    "trans": [
+      "자연"
+    ]
+  },
+  {
+    "name": "natural",
+    "trans": [
+      "자연의"
+    ]
+  },
+  {
+    "name": "grant",
+    "trans": [
+      "허가"
+    ]
+  },
+  {
+    "name": "logarithm",
+    "trans": [
+      "로그"
+    ]
+  },
+  {
+    "name": "reload",
+    "trans": [
+      "재장전"
+    ]
+  },
+  {
+    "name": "occupy",
+    "trans": [
+      "점유"
+    ]
+  },
+  {
+    "name": "photograph",
+    "trans": [
+      "사진"
+    ]
+  },
+  {
+    "name": "resolve",
+    "trans": [
+      "결정"
+    ]
+  },
+  {
+    "name": "unsafe",
+    "trans": [
+      "위험한"
+    ]
+  },
+  {
+    "name": "separator",
+    "trans": [
+      "구분자"
+    ]
+  },
+  {
+    "name": "hierarchical",
+    "trans": [
+      "계층적"
+    ]
+  },
+  {
+    "name": "assortment",
+    "trans": [
+      "분류"
+    ]
+  },
+  {
+    "name": "growing",
+    "trans": [
+      "성장하는"
+    ]
+  },
+  {
+    "name": "discussion",
+    "trans": [
+      "토론"
+    ]
+  },
+  {
+    "name": "alphabet",
+    "trans": [
+      "알파벳"
+    ]
+  },
+  {
+    "name": "scattered",
+    "trans": [
+      "흩어진"
+    ]
+  },
+  {
+    "name": "eventually",
+    "trans": [
+      "결국"
+    ]
+  },
+  {
+    "name": "finally",
+    "trans": [
+      "마침내"
+    ]
+  },
+  {
+    "name": "subgroup",
+    "trans": [
+      "하위 그룹"
+    ]
+  },
+  {
+    "name": "superimpose",
+    "trans": [
+      "중첩"
+    ]
+  },
+  {
+    "name": "reorganization",
+    "trans": [
+      "재조직"
+    ]
+  },
+  {
+    "name": "rewrite",
+    "trans": [
+      "재작성"
+    ]
+  },
+  {
+    "name": "university",
+    "trans": [
+      "대학"
+    ]
+  },
+  {
+    "name": "deter",
+    "trans": [
+      "억제"
+    ]
+  },
+  {
+    "name": "pool",
+    "trans": [
+      "풀"
+    ]
+  },
+  {
+    "name": "moment",
+    "trans": [
+      "순간"
+    ]
+  },
+  {
+    "name": "shut",
+    "trans": [
+      "닫힌"
+    ]
+  },
+  {
+    "name": "closed",
+    "trans": [
+      "닫힌"
+    ]
+  },
+  {
+    "name": "respond",
+    "trans": [
+      "응답"
+    ]
+  },
+  {
+    "name": "repeating",
+    "trans": [
+      "반복하는"
+    ]
+  },
+  {
+    "name": "repetitive",
+    "trans": [
+      "반복적인"
+    ]
+  },
+  {
+    "name": "reenter",
+    "trans": [
+      "재진입"
+    ]
+  },
+  {
+    "name": "rearrange",
+    "trans": [
+      "재정리"
+    ]
+  },
+  {
+    "name": "rectangular",
+    "trans": [
+      "직사각형의"
+    ]
+  },
+  {
+    "name": "tag",
+    "trans": [
+      "태그"
+    ]
+  },
+  {
+    "name": "suppose",
+    "trans": [
+      "가정하다"
+    ]
+  },
+  {
+    "name": "supposed",
+    "trans": [
+      "가정된"
+    ]
+  },
+  {
+    "name": "operator",
+    "trans": [
+      "운영자"
+    ]
+  },
+  {
+    "name": "masking",
+    "trans": [
+      "마스킹"
+    ]
+  },
+  {
+    "name": "price",
+    "trans": [
+      "가격"
+    ]
+  },
+  {
+    "name": "demonstrate",
+    "trans": [
+      "시연하다"
+    ]
+  },
+  {
+    "name": "importance",
+    "trans": [
+      "중요성"
+    ]
+  },
+  {
+    "name": "pipe",
+    "trans": [
+      "파이프"
+    ]
+  },
+  {
+    "name": "overall",
+    "trans": [
+      "전체의"
+    ]
+  },
+  {
+    "name": "turnkey",
+    "trans": [
+      "턴키"
+    ]
+  },
+  {
+    "name": "restricted",
+    "trans": [
+      "제한된"
+    ]
+  },
+  {
+    "name": "suspension",
+    "trans": [
+      "중단"
+    ]
+  },
+  {
+    "name": "seamless",
+    "trans": [
+      "무봉제"
+    ]
+  },
+  {
+    "name": "clipper",
+    "trans": [
+      "클리퍼"
+    ]
+  },
+  {
+    "name": "unsigned",
+    "trans": [
+      "서명되지 않은"
+    ]
+  },
+  {
+    "name": "unformatted",
+    "trans": [
+      "비포맷된"
+    ]
+  },
+  {
+    "name": "infinite",
+    "trans": [
+      "무한한"
+    ]
+  },
+  {
+    "name": "useless",
+    "trans": [
+      "무용한"
+    ]
+  },
+  {
+    "name": "mountain",
+    "trans": [
+      "산"
+    ]
+  },
+  {
+    "name": "redundant",
+    "trans": [
+      "잉여의"
+    ]
+  },
+  {
+    "name": "dependent",
+    "trans": [
+      "의존하는"
+    ]
+  },
+  {
+    "name": "background",
+    "trans": [
+      "배경"
+    ]
+  },
+  {
+    "name": "product",
+    "trans": [
+      "제품"
+    ]
+  },
+  {
+    "name": "assignment",
+    "trans": [
+      "과제"
+    ]
+  },
+  {
+    "name": "bad",
+    "trans": [
+      "나쁜"
+    ]
+  },
+  {
+    "name": "declare",
+    "trans": [
+      "선언하다"
+    ]
+  },
+  {
+    "name": "adjust",
+    "trans": [
+      "조정하다"
+    ]
+  },
+  {
+    "name": "recognize",
+    "trans": [
+      "인식하다"
+    ]
+  },
+  {
+    "name": "route",
+    "trans": [
+      "경로"
+    ]
+  },
+  {
+    "name": "respectively",
+    "trans": [
+      "각각"
+    ]
+  },
+  {
+    "name": "unsuccessful",
+    "trans": [
+      "실패한"
+    ]
+  },
+  {
+    "name": "received",
+    "trans": [
+      "인정된"
+    ]
+  },
+  {
+    "name": "navigate",
+    "trans": [
+      "항해하다"
+    ]
+  },
+  {
+    "name": "considered",
+    "trans": [
+      "고려된"
+    ]
+  },
+  {
+    "name": "due",
+    "trans": [
+      "기한"
+    ]
+  },
+  {
+    "name": "recently",
+    "trans": [
+      "최근에"
+    ]
+  },
+  {
+    "name": "room",
+    "trans": [
+      "방"
+    ]
+  },
+  {
+    "name": "descend",
+    "trans": [
+      "내리다"
+    ]
+  },
+  {
+    "name": "contiguous",
+    "trans": [
+      "인접한"
+    ]
+  },
+  {
+    "name": "consistent",
+    "trans": [
+      "일관된"
+    ]
+  },
+  {
+    "name": "multiprocessing",
+    "trans": [
+      "다중 처리"
+    ]
+  },
+  {
+    "name": "architecture",
+    "trans": [
+      "건축"
+    ]
+  },
+  {
+    "name": "structural",
+    "trans": [
+      "구조의"
+    ]
+  },
+  {
+    "name": "outcome",
+    "trans": [
+      "결과"
+    ]
+  },
+  {
+    "name": "association",
+    "trans": [
+      "연합"
+    ]
+  },
+  {
+    "name": "opinion",
+    "trans": [
+      "의견"
+    ]
+  },
+  {
+    "name": "interpret",
+    "trans": [
+      "해석하다"
+    ]
+  },
+  {
+    "name": "explanatory",
+    "trans": [
+      "설명하는"
+    ]
+  },
+  {
+    "name": "assemble",
+    "trans": [
+      "조립하다"
+    ]
+  },
+  {
+    "name": "assembler",
+    "trans": [
+      "조립기"
+    ]
+  },
+  {
+    "name": "cad",
+    "trans": [
+      "설계"
+    ]
+  },
+  {
+    "name": "arithmetic",
+    "trans": [
+      "산술"
+    ]
+  },
+  {
+    "name": "representative",
+    "trans": [
+      "대표적인"
+    ]
+  },
+  {
+    "name": "typical",
+    "trans": [
+      "전형적인"
+    ]
+  },
+  {
+    "name": "sufficient",
+    "trans": [
+      "충분한"
+    ]
+  },
+  {
+    "name": "blast",
+    "trans": [
+      "폭발"
+    ]
+  },
+  {
+    "name": "clean",
+    "trans": [
+      "깨끗한"
+    ]
+  },
+  {
+    "name": "caret",
+    "trans": [
+      "캐럿"
+    ]
+  },
+  {
+    "name": "socket",
+    "trans": [
+      "소켓"
+    ]
+  },
+  {
+    "name": "stated",
+    "trans": [
+      "명시된"
+    ]
+  },
+  {
+    "name": "protocol",
+    "trans": [
+      "프로토콜"
+    ]
+  },
+  {
+    "name": "presence",
+    "trans": [
+      "존재"
+    ]
+  },
+  {
+    "name": "telephone",
+    "trans": [
+      "전화"
+    ]
+  },
+  {
+    "name": "social",
+    "trans": [
+      "사회적"
+    ]
+  },
+  {
+    "name": "equipment",
+    "trans": [
+      "장비"
+    ]
+  },
+  {
+    "name": "lending",
+    "trans": [
+      "대출"
+    ]
+  },
+  {
+    "name": "book",
+    "trans": [
+      "책"
+    ]
+  },
+  {
+    "name": "situation",
+    "trans": [
+      "상황"
+    ]
+  },
+  {
+    "name": "desk",
+    "trans": [
+      "책상"
+    ]
+  },
+  {
+    "name": "please",
+    "trans": [
+      "제발"
+    ]
+  },
+  {
+    "name": "mixture",
+    "trans": [
+      "혼합물"
+    ]
+  },
+  {
+    "name": "representation",
+    "trans": [
+      "표현"
+    ]
+  },
+  {
+    "name": "esoteric",
+    "trans": [
+      "비밀의"
+    ]
+  },
+  {
+    "name": "depth",
+    "trans": [
+      "깊이"
+    ]
+  },
+  {
+    "name": "final",
+    "trans": [
+      "최종"
+    ]
+  },
+  {
+    "name": "physically",
+    "trans": [
+      "신체적으로"
+    ]
+  },
+  {
+    "name": "aid",
+    "trans": [
+      "도움"
+    ]
+  },
+  {
+    "name": "successive",
+    "trans": [
+      "연속적인"
+    ]
+  },
+  {
+    "name": "succession",
+    "trans": [
+      "계승"
+    ]
+  },
+  {
+    "name": "unpack",
+    "trans": [
+      "풀다"
+    ]
+  },
+  {
+    "name": "chunk",
+    "trans": [
+      "덩어리"
+    ]
+  },
+  {
+    "name": "alignment",
+    "trans": [
+      "정렬"
+    ]
+  },
+  {
+    "name": "typewriter",
+    "trans": [
+      "타자기"
+    ]
+  },
+  {
+    "name": "big",
+    "trans": [
+      "큰"
+    ]
+  },
+  {
+    "name": "tone",
+    "trans": [
+      "톤"
+    ]
+  },
+  {
+    "name": "sensitive",
+    "trans": [
+      "민감한"
+    ]
+  },
+  {
+    "name": "reduction",
+    "trans": [
+      "감소"
+    ]
+  },
+  {
+    "name": "indentation",
+    "trans": [
+      "들여쓰기"
+    ]
+  },
+  {
+    "name": "terminology",
+    "trans": [
+      "용어"
+    ]
+  },
+  {
+    "name": "ascending",
+    "trans": [
+      "상승하는"
+    ]
+  },
+  {
+    "name": "augment",
+    "trans": [
+      "증가시키다"
+    ]
+  },
+  {
+    "name": "increment",
+    "trans": [
+      "증가"
+    ]
+  },
+  {
+    "name": "gain",
+    "trans": [
+      "이득"
+    ]
+  },
+  {
+    "name": "stream",
+    "trans": [
+      "흐름"
+    ]
+  },
+  {
+    "name": "obsolete",
+    "trans": [
+      "구식의"
+    ]
+  },
+  {
+    "name": "accommodate",
+    "trans": [
+      "수용하다"
+    ]
+  },
+  {
+    "name": "motif",
+    "trans": [
+      "주제"
+    ]
+  },
+  {
+    "name": "subject",
+    "trans": [
+      "주제"
+    ]
+  },
+  {
+    "name": "job",
+    "trans": [
+      "일"
+    ]
+  },
+  {
+    "name": "differentiate",
+    "trans": [
+      "구별하다"
+    ]
+  },
+  {
+    "name": "distinction",
+    "trans": [
+      "구별"
+    ]
+  },
+  {
+    "name": "distinguish",
+    "trans": [
+      "구별하다"
+    ]
+  },
+  {
+    "name": "locking",
+    "trans": [
+      "잠금"
+    ]
+  },
+  {
+    "name": "progress",
+    "trans": [
+      "진전"
+    ]
+  },
+  {
+    "name": "fundamental",
+    "trans": [
+      "기본적인"
+    ]
+  },
+  {
+    "name": "basis",
+    "trans": [
+      "기초"
+    ]
+  },
+  {
+    "name": "underlying",
+    "trans": [
+      "기본적인"
+    ]
+  },
+  {
+    "name": "sound",
+    "trans": [
+      "소리"
+    ]
+  },
+  {
+    "name": "vital",
+    "trans": [
+      "중요한"
+    ]
+  },
+  {
+    "name": "national",
+    "trans": [
+      "국가의"
+    ]
+  },
+  {
+    "name": "sale",
+    "trans": [
+      "판매"
+    ]
+  },
+  {
+    "name": "agree",
+    "trans": [
+      "동의하다"
+    ]
+  },
+  {
+    "name": "iterative",
+    "trans": [
+      "반복적인"
+    ]
+  },
+  {
+    "name": "inclusive",
+    "trans": [
+      "포함하는"
+    ]
+  },
+  {
+    "name": "charm",
+    "trans": [
+      "매력"
+    ]
+  },
+  {
+    "name": "hit",
+    "trans": [
+      "타격"
+    ]
+  },
+  {
+    "name": "course",
+    "trans": [
+      "강의"
+    ]
+  },
+  {
+    "name": "numerical",
+    "trans": [
+      "수치의"
+    ]
+  },
+  {
+    "name": "digital",
+    "trans": [
+      "디지털의"
+    ]
+  },
+  {
+    "name": "combo",
+    "trans": [
+      "조합"
+    ]
+  },
+  {
+    "name": "cord",
+    "trans": [
+      "끈"
+    ]
+  },
+  {
+    "name": "organise",
+    "trans": [
+      "조직하다"
+    ]
+  },
+  {
+    "name": "permit",
+    "trans": [
+      "허가"
+    ]
+  },
+  {
+    "name": "still",
+    "trans": [
+      "여전히"
+    ]
+  },
+  {
+    "name": "explicit",
+    "trans": [
+      "명확한"
+    ]
+  },
+  {
+    "name": "elapse",
+    "trans": [
+      "경과하다"
+    ]
+  },
+  {
+    "name": "accidental",
+    "trans": [
+      "우연한"
+    ]
+  },
+  {
+    "name": "sequential",
+    "trans": [
+      "연속적인"
+    ]
+  },
+  {
+    "name": "indirect",
+    "trans": [
+      "간접적인"
+    ]
+  },
+  {
+    "name": "reappear",
+    "trans": [
+      "재출현하다"
+    ]
+  },
+  {
+    "name": "circumstance",
+    "trans": [
+      "상황"
+    ]
+  },
+  {
+    "name": "mix",
+    "trans": [
+      "혼합하다"
+    ]
+  },
+  {
+    "name": "suppress",
+    "trans": [
+      "억제하다"
+    ]
+  },
+  {
+    "name": "E",
+    "trans": [
+      "E"
+    ]
+  },
+  {
+    "name": "recognition",
+    "trans": [
+      "인식"
+    ]
+  },
+  {
+    "name": "arm",
+    "trans": [
+      "팔"
+    ]
+  },
+  {
+    "name": "alphanumeric",
+    "trans": [
+      "영숫자"
+    ]
+  },
+  {
+    "name": "analog",
+    "trans": [
+      "유사한"
+    ]
+  },
+  {
+    "name": "automation",
+    "trans": [
+      "자동화"
+    ]
+  },
+  {
+    "name": "band",
+    "trans": [
+      "밴드"
+    ]
+  },
+  {
+    "name": "batch",
+    "trans": [
+      "일괄"
+    ]
+  },
+  {
+    "name": "brush",
+    "trans": [
+      "브러시"
+    ]
+  },
+  {
+    "name": "calculator",
+    "trans": [
+      "계산기"
+    ]
+  },
+  {
+    "name": "punch",
+    "trans": [
+      "펀치"
+    ]
+  },
+  {
+    "name": "reader",
+    "trans": [
+      "독자"
+    ]
+  },
+  {
+    "name": "cell",
+    "trans": [
+      "세포"
+    ]
+  },
+  {
+    "name": "channel",
+    "trans": [
+      "채널"
+    ]
+  },
+  {
+    "name": "circuit",
+    "trans": [
+      "회로"
+    ]
+  },
+  {
+    "name": "to",
+    "trans": [
+      "로"
+    ]
+  },
+  {
+    "name": "coder",
+    "trans": [
+      "코더"
+    ]
+  },
+  {
+    "name": "unit",
+    "trans": [
+      "단위"
+    ]
+  },
+  {
+    "name": "core",
+    "trans": [
+      "핵심"
+    ]
+  },
+  {
+    "name": "cybernetics",
+    "trans": [
+      "사이버네틱스"
+    ]
+  },
+  {
+    "name": "disc",
+    "trans": [
+      "디스크"
+    ]
+  },
+  {
+    "name": "drum",
+    "trans": [
+      "드럼"
+    ]
+  },
+  {
+    "name": "electronics",
+    "trans": [
+      "전자기기"
+    ]
+  },
+  {
+    "name": "emitter",
+    "trans": [
+      "발사기"
+    ]
+  },
+  {
+    "name": "encode",
+    "trans": [
+      "인코딩"
+    ]
+  },
+  {
+    "name": "feedback",
+    "trans": [
+      "피드백"
+    ]
+  },
+  {
+    "name": "flow",
+    "trans": [
+      "흐름"
+    ]
+  },
+  {
+    "name": "frame",
+    "trans": [
+      "프레임"
+    ]
+  },
+  {
+    "name": "identifier",
+    "trans": [
+      "식별자"
+    ]
+  },
+  {
+    "name": "inquiry",
+    "trans": [
+      "조사"
+    ]
+  },
+  {
+    "name": "integrated",
+    "trans": [
+      "통합된"
+    ]
+  },
+  {
+    "name": "latency",
+    "trans": [
+      "지연"
+    ]
+  },
+  {
+    "name": "linkage",
+    "trans": [
+      "연결"
+    ]
+  },
+  {
+    "name": "logger",
+    "trans": [
+      "로거"
+    ]
+  },
+  {
+    "name": "magnetic",
+    "trans": [
+      "자기"
+    ]
+  },
+  {
+    "name": "matrix",
+    "trans": [
+      "행렬"
+    ]
+  },
+  {
+    "name": "microcomputer",
+    "trans": [
+      "마이크로컴퓨터"
+    ]
+  },
+  {
+    "name": "nanosecond",
+    "trans": [
+      "나노초"
+    ]
+  },
+  {
+    "name": "octet",
+    "trans": [
+      "옥텟"
+    ]
+  },
+  {
+    "name": "optical",
+    "trans": [
+      "광학의"
+    ]
+  },
+  {
+    "name": "panel",
+    "trans": [
+      "패널"
+    ]
+  },
+  {
+    "name": "perforator",
+    "trans": [
+      "천공기"
+    ]
+  },
+  {
+    "name": "peripheral",
+    "trans": [
+      "주변"
+    ]
+  },
+  {
+    "name": "pulse",
+    "trans": [
+      "펄스"
+    ]
+  },
+  {
+    "name": "redundancy",
+    "trans": [
+      "冗余"
+    ]
+  },
+  {
+    "name": "selector",
+    "trans": [
+      "选择器"
+    ]
+  },
+  {
+    "name": "sentinel",
+    "trans": [
+      "哨兵"
+    ]
+  },
+  {
+    "name": "simulation",
+    "trans": [
+      "模拟"
+    ]
+  },
+  {
+    "name": "simulator",
+    "trans": [
+      "模拟器"
+    ]
+  },
+  {
+    "name": "sorter",
+    "trans": [
+      "分类器"
+    ]
+  },
+  {
+    "name": "symbolic",
+    "trans": [
+      "象征的"
+    ]
+  },
+  {
+    "name": "tabulator",
+    "trans": [
+      "制表机"
+    ]
+  },
+  {
+    "name": "teleprinter",
+    "trans": [
+      "电传打印机"
+    ]
+  },
+  {
+    "name": "timer",
+    "trans": [
+      "计时器"
+    ]
+  },
+  {
+    "name": "timing",
+    "trans": [
+      "时间安排"
+    ]
+  },
+  {
+    "name": "transducer",
+    "trans": [
+      "传感器"
+    ]
+  },
+  {
+    "name": "translator",
+    "trans": [
+      "翻译者"
+    ]
+  },
+  {
+    "name": "Winchester",
+    "trans": [
+      "温彻斯特"
+    ]
+  },
+  {
+    "name": "multimedia",
+    "trans": [
+      "多媒体"
+    ]
+  },
+  {
+    "name": "pentium",
+    "trans": [
+      "奔腾"
+    ]
+  },
+  {
+    "name": "kilo",
+    "trans": [
+      "千"
+    ]
+  },
+  {
+    "name": "giga",
+    "trans": [
+      "千兆"
+    ]
+  },
+  {
+    "name": "bracketed",
+    "trans": [
+      "括号"
+    ]
+  },
+  {
+    "name": "debugger",
+    "trans": [
+      "调试器"
+    ]
+  }
+]
