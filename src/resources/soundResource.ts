@@ -42,11 +42,11 @@ export const LANG_PRON_MAP: LanguagePronunciationMap = {
     defaultPronIndex: 0,
     pronunciation: [
       {
-        name: '美音',
+        name: '미국식',
         pron: 'us',
       },
       {
-        name: '英音',
+        name: '영국식',
         pron: 'uk',
       },
     ],
@@ -55,11 +55,11 @@ export const LANG_PRON_MAP: LanguagePronunciationMap = {
     defaultPronIndex: 0,
     pronunciation: [
       {
-        name: '美音',
+        name: '미국식',
         pron: 'us',
       },
       {
-        name: '英音',
+        name: '영국식',
         pron: 'uk',
       },
     ],
@@ -68,7 +68,7 @@ export const LANG_PRON_MAP: LanguagePronunciationMap = {
     defaultPronIndex: 0,
     pronunciation: [
       {
-        name: '德语',
+        name: '독일어',
         pron: 'de',
       },
     ],
@@ -77,7 +77,7 @@ export const LANG_PRON_MAP: LanguagePronunciationMap = {
     defaultPronIndex: 0,
     pronunciation: [
       {
-        name: '罗马音',
+        name: '로마자',
         pron: 'romaji',
       },
     ],

@@ -100,7 +100,7 @@ const KeyboardWithBarCharts: FC<KeyboardWithBarChartsProps> = ({ data, title, su
         inRange: {
           color: isOpenDarkMode ? ['hsl(0, 0%, 22%)', '#818cf8'] : ['#f0f0f0', '#6366f1'],
         },
-        text: ['多', '少'],
+        text: ['많음', '적음'],
         textStyle: {
           color: isOpenDarkMode ? '#fff' : '#000',
         },

@@ -170,12 +170,12 @@ export default function SharePicDialog({ showState, setShowState, randomChoose }
               <KeyboardPanel description={promote.word} />
               <div className="text-center text-xs text-gray-500">{promote.sentence}</div>
               <div className="mx-4 mt-6 flex rounded-xl bg-white px-4 py-3 opacity-50 shadow-xl">
-                <DataBox data={state.timerData.time + ''} description="用时" />
-                <DataBox data={state.timerData.accuracy + '%'} description="正确率" />
+                <DataBox data={state.timerData.time + ''} description="시간" />
+                <DataBox data={state.timerData.accuracy + '%'} description="정확도" />
                 <DataBox data={state.timerData.wpm + ''} description="WPM" />
               </div>
               <div className="ml-5 mt-4 self-start text-base text-gray-800">{currentDictInfo.name}</div>
-              <div className="ml-5 mt-2 self-start text-xs text-gray-600">{`第 ${currentChapter + 1} 章`}</div>
+              <div className="ml-5 mt-2 self-start text-xs text-gray-600">{`챕터 ${currentChapter + 1}`}</div>
             </div>
             <div className="mb-3 ml-5 mt-auto">
               <div className="text-xs">Qwerty.kaiyi.cool</div>

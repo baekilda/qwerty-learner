@@ -35,17 +35,17 @@ const HeatmapCharts: FC<HeatmapChartsProps> = ({ data, title }) => {
         renderBlock={(block, activity) =>
           React.cloneElement(block, {
             'data-tooltip-id': 'react-tooltip',
-            'data-tooltip-html': `${activity.date} 练习 ${activity.count} 次`,
+            'data-tooltip-html': `${activity.date}: ${activity.count} 회`,
           })
         }
         showWeekdayLabels={true}
         labels={{
-          months: ['一月', '二月', '三月', '四月', '五月', '六月', '七月', '八月', '九月', '十月', '十一月', '十二月'],
-          weekdays: ['日', '一', '二', '三', '四', '五', '六'],
-          totalCount: '过去一年总计 {{count}} 次',
+          months: ['1월', '2월', '3월', '4월', '5월', '6월', '7월', '8월', '9월', '10월', '11월', '12월'],
+          weekdays: ['일', '월', '화', '수', '목', '금', '토'],
+          totalCount: '지난 1년 동안 {{count}} 회',
           legend: {
-            less: '少',
-            more: '多',
+            less: '많음',
+            more: '적음',
           },
         }}
       />
