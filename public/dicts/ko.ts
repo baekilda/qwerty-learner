@@ -3,11 +3,12 @@ import OpenAI from 'openai';
 import fs from 'node:fs/promises'
 
 const openai = new OpenAI();
+const BATCH_SIZE = 30;
 
 !async function () {
-  for (let i = 0; i < itWords.length; i += 30) {
+  for (let i = 0; i < itWords.length; i += BATCH_SIZE) {
     console.log(i);
-    const res = await translate(itWords.slice(i, i + 30));
+    const res = await translate(itWords.slice(i, i + BATCH_SIZE));
     if (!res) {
       throw new Error('No response');
     }
@@ -23,7 +24,7 @@ const openai = new OpenAI();
 async function translate(data: any[]) {
   const response = await openai.chat.completions.create({
     messages: [
-      { role: 'system', content: '这是一个包含编程中常用英语单词及其中文解释的json片段，其中"name"是英语单词本身，"trnas"数组的第一个元素是单词的意思。请保持该json格式，并生成一个韩语版本。翻译时，请尽量保持简洁，无需按原来的中文翻译格式进行翻译，使用一两个单词来完成翻译。请输出`{"result": [/* 结果 */]}`格式。' },
+      { role: 'system', content: '这是一个包含编程中常用英语单词及其中文解释的json片段，其中"name"是英语单词本身，"trans"数组的第一个元素是单词的意思。请保持该json格式，并生成一个**韩语**版本。翻译时，请尽量保持简短，用一两个韩语单词说明该单词在编程与计算机环境下的意思即可，无需按原来的中文翻译的格式进行翻译。请输出`{"result": [/* 结果 */]}`格式。' },
       { role: 'user', content: JSON.stringify(data) }
     ],
     model: 'gpt-4o-mini',
